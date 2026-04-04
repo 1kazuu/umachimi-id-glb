@@ -1,4 +1,4 @@
-## 🌸 Umachimi-ID ( Hachimi Bahasa Indonesia + Local Slang ) 🇮🇩
+## 🌸 Umachimi-ID Global ( Hachimi Bahasa Indonesia ) 🇮🇩
 Selamat datang di repositori **Umachimi-ID**! 🎉
 
 Umachimi adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda dengan terjemahan Bahasa Indonesia. 
