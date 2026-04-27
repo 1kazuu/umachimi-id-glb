@@ -1,0 +1,72 @@
+{
+  "base_url": "https://raw.githubusercontent.com/UmamusumeFR/hachimi-tl-fr/release/localized_data",
+  "zip_url": "https://codeload.github.com/UmamusumeFR/hachimi-tl-fr/zip/refs/heads/release",
+  "zip_dir": "hachimi-tl-fr-release/localized_data",
+  "files": [
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1006001.json",
+      "hash": "ffb0e4b7ae22f1e73d0495dad9fa073d3b2d847ac91522b6296c69be7426eca6",
+      "size": 589
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1006002.json",
+      "hash": "3511d8fa9cc27486e5a2a2b330f5bf0767cb8bae8b665e5446004086f0f4535b",
+      "size": 864
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1006003.json",
+      "hash": "26714bf6ad2733fced69e3007bf3b0c498fc384447cb431d1dd481ec8799492e",
+      "size": 530
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1006001.json",
+      "hash": "72dd931a32da355e0e15bf47ede11d3058130833e04189ddda5be4972f285530",
+      "size": 985
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1006002.json",
+      "hash": "ff7fa873174a6e0140d3557a5c343ff35cd4b9bc5dcb13b226cb31fde3f1ade8",
+      "size": 815
+    },
+    {
+      "path": "assets/story/data/08/0000/storytimeline_080000001.json",
+      "hash": "5af8cc2efb13db68d9540a1c46ad917c40d5f2f3e8c73e4c27298c3705524545",
+      "size": 3993
+    },
+    {
+      "path": "assets/story/data/08/0000/storytimeline_080000002.json",
+      "hash": "961e2afc48123f1dbe6c994a2c7b2383f2340ccef242d79f94404174d85fb559",
+      "size": 2409
+    },
+    {
+      "path": "assets/story/data/08/0000/storytimeline_080000004.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "config.json",
+      "hash": "36eb002292e7a6e728f37f2938e1f655198dfcc7d47fc867821a8b360fac38fb",
+      "size": 563
+    },
+    {
+      "path": "localize_dict.json",
+      "hash": "ad9dc5b1dc26bd6e2e49086edba330c908fb11085629d4965e698e2911266d5f",
+      "size": 17465
+    },
+    {
+      "path": "race_jikkyo_comment_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "race_jikkyo_message_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "e2188b8b6c56f061dfe418f8f47de6a2d56f557195db1f96b60c6a65ca1e1306",
+      "size": 1274
+    }
+  ]
+}
