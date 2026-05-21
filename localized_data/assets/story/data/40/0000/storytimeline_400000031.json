@@ -1,17 +1,17 @@
 {
-    "no_wrap": false,
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Otonashi Etsuko",
-            "text": "Hmm… apa ini rencana latihanmu saat ini?\n<n>…Begitu, begitu."
+            "text": "Hmm… apakah ini rencana latihanmu saat ini?\n… Begitu, begitu."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Oh, tolong jangan main-main denganku.\n<n>Ini bukan rencana sungguhan, kan?"
+            "text": "Oh, tolong jangan main-main denganku.\nIni bukan rencana sungguhan, kan?"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Maksudku, kau, Trainer. Kau masih\n<n>menyembunyikan rencana pengorbanan diri \n<n>yang besar,kan?"
+            "text": "Maksudku, kau, Trainer. Kau masih\nmenyembunyikan rencana\npengorbanan diri yang besar,\nkan?"
         },
         {
             "name": "",
