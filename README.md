@@ -1,4 +1,4 @@
-## 📌 Tentang Proyek
+## 🍯 Hachimi Indonesia Server Global
 [![Server Discord Komunitas](https://dcbadge.limes.pink/api/server/https://discord.gg/4zvW4VhrYV)](https://discord.gg/4zvW4VhrYV)
 
 Selamat datang di repositori **Umachimi-ID**! 🎉
