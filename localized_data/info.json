@@ -1,0 +1,14 @@
+{
+  "name": "Bahasa Indonesia",
+  "description": "Translasi oleh Umachimi-ID. lihat status translasi di (umachimi.carrd.co)\nUmachimi-ID adalah komunitas translator untuk game UM:PD Bahasa Indonesia.", 
+  "changelog_url": "https://raw.githubusercontent.com/1kazuu/umachimi-id-glb/main/CHANGELOG.md",
+  "homepage": "https://github.com/Xmatography/umachimi-id",
+  "links": [
+    ["Donate", "https://umachimi.carrd.co/"],
+    ["Discord", "https://discord.gg/4zvW4VhrYV"],
+    ["Progres TL", "https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi"]
+  ],
+  "maintainer": "Xmatography",
+  "contributors": ["Xmatography", "MisuMatsu", "gagakitem", "Ikazuu", "FreyDerika", "Tatara_Hisoka", "Nerjin"],
+  "language": "id"
+}

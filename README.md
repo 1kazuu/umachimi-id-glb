@@ -5,7 +5,7 @@ Selamat datang di repositori **Umachimi-ID**! 🎉🇮🇩
 
 **Umachimi** adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda cantik dengan terjemahan Bahasa Indonesia berbasis aplikasi **Hachimi**. 
 
-<img src="docs\SS1.webp" width="30.3%" /> <img src="docs\SS2.webp" width="30%" /> <img src="docs\SS3.webp" width="30.01%" />
+<img src="docs\SS1.webp" width="35.3%" /> <img src="docs\SS2.webp" width="29.8%" /> <img src="docs\SS3.webp" width="30%" />
 
 Proyek ini dibuat oleh para penggemar konten lokalisasi sekaligus bertujuan untuk membantu para pemain yang terkendala bahasa dengan menambahkan terjemahan **Bahasa Indonesia** di berbagai konten/aset dalam game UM:PD.
 
@@ -25,7 +25,7 @@ Seluruh kemajuan translasi yang dikerjakan para kontributor dapat dilihat di [St
 
 Kami sangat terbuka untuk kamu yang ingin ikut berkontribusi! 🙌  
 Kamu bisa bantu membangun proyek dengan cara:
-- ✅ Menambah konten terjemahan baru melalui **Pull Request** (Baca dokumentasi tutorial kontribusi di [Wiki](/wiki) dan [Panduan Translasi](https://hachimi.noccu.art/id/docs/translation-guide/welcome).).
+- ✅ Menambah konten terjemahan baru melalui **Pull Request** (Baca dokumentasi tutorial kontribusi di [Wiki](https://github.com/Xmatography/umachimi-id/wiki) dan [Panduan Translasi](https://hachimi.noccu.art/id/docs/translation-guide/welcome)).
 
 - 📝 Memberi kritik, saran, dan koreksi terjemahan ke [server Discord komunitas](https://discord.gg/4zvW4VhrYV).
 
