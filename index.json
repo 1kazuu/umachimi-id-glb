@@ -2220,13 +2220,23 @@
     },
     {
       "path": "config.json",
-      "hash": "795cd42ef53aee96704cd56cbd62982ad65a13f558f6f82b94cd146a0d8f9352",
-      "size": 1101
+      "hash": "092907903a21c5f5190e9364e7faa23b0ae3478b028ecf9d8bd7556e1c62a693",
+      "size": 1100
     },
     {
       "path": "hashed_dict.json",
       "hash": "5897dca638c973951985677298b5ffb8c332d71687f62f87cc03f86e88fb0ab8",
       "size": 237772
+    },
+    {
+      "path": "icon.png",
+      "hash": "a58f318861b1d9e88cca59e06f20ad67fe92098dbeedfb59fa593d4ab8284949",
+      "size": 185151
+    },
+    {
+      "path": "info.json",
+      "hash": "72d95b08ee62a9155169c24f32ed1ca2769d075e5894baf132eaafb1a889afd2",
+      "size": 724
     },
     {
       "path": "localize_dict.json",
