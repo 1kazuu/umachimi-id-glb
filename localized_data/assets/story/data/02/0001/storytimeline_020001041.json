@@ -9,14 +9,14 @@
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "Ada kabar baru soal penundaan \npembubaran tim-mu, jadi aku buru-buru \ndatang kasih tahu.",
+            "text": "Ada kabar baru soal penundaan \npembubaran tim-mu, jadi saya buru-buru \ndatang kasih tahu.",
             "name": "Tazuna Hayakawa",
             "choice_data_list": [
                 "Apa kabar barunya!?"
             ]
         },
         {
-            "text": "Hehe, tenang dulu. Mereka kasih kelonggaran \nhingga paruh pertama tahun ini… Penundaan berlanjut sampai akhir Juni.",
+            "text": "Hehe, tenang dulu. Mereka kasih kelonggaran \nhingga paruh pertama tahun ini…\nPenundaan berlanjut sampai akhir Juni.",
             "name": "Tazuna Hayakawa"
         },
         {
@@ -28,13 +28,13 @@
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "Bagus sekali. Jadi untuk sementara kita nggak perlu \npusing cari anggota baru, bisa fokus ke Tennō Shō Musim Semi…!",
+            "text": "Bagus sekali. Jadi untuk sementara kita nggak perlu \npusing cari anggota baru, bisa fokus ke Tennō Shō Spring…!",
             "choice_data_list": [
                 "Terima kasih banyak!"
             ]
         },
         {
-            "text": "Tidak perlu berterima kasih, aku hanya penyampai pesan. Tapi aku \nikut senang untukmu. Semoga sukses di Tennō Shō Musim Semi!",
+            "text": "Tidak, saya hanya bertugas menyampaikan pesan saja. Tapi syukurlah.\nPertama-tama, tolong berjuanglah di 'Tenno Sho Spring' nanti!",
             "name": "Tazuna Hayakawa"
         },
         {
@@ -51,7 +51,7 @@
             "text": "Jelas sekali dia terlalu memaksakan diri. Gerakannya \nsudah kacau karena lelah dan keseimbangannya hilang."
         },
         {
-            "text": "Kalau terus begini, hasil latihannya justru buruk, \ndan kemungkinan besar dia cedera sebelum Tennō Shō Musim Semi…"
+            "text": "Kalau terus begini, hasil latihannya justru buruk, \ndan kemungkinan besar dia cedera sebelum Tennō Shō Spring…"
         },
         {
             "text": "…Ah, Haaah, Hah… Eaah!?",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "text": "Di mana…? Hah, Trainer-san? Kenapa…?",
+            "text": "Ini di…? Hah, Trainer-san? Kenapa…?",
             "name": "Mejiro McQueen"
         },
         {
@@ -101,7 +101,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "…Tunggu, kamu tahu soal latihan mandiriku!?",
+            "text": "…Tunggu, kamu tahu soal aku latihan sendirian!?",
             "name": "Mejiro McQueen"
         },
         {
@@ -113,7 +113,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Aku tebak, berikutnya kamu pasti bilang, \n“hentikan latihan mandiri itu”, kan?",
+            "text": "Aku tebak, berikutnya kamu pasti bilang, \n“Jangan latihan sendiri lagi”, kan?",
             "name": "Mejiro McQueen",
             "choice_data_list": [
                 "Aku nggak bisa biarkan ini terulang lagi."
@@ -124,11 +124,11 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kalau begitu, sebagai gantinya setelah latihan mandiri dihentikan, \naku ingin kamu bisa lebih mengandalkanku. Aku ingin kamu bilang apa adanya \nperasaanmu mulai sekarang.",
+            "text": "Jadi, jangan latihan sendiri lagi. Sebagai gantinya, \nbersandarlah padaku. Aku ingin dengar semua isi hatimu.",
             "name": "<username>"
         },
         {
-            "text": "Kalau begitu, sebagai gantinya setelah latihan mandiri dihentikan, \naku ingin kamu bisa lebih mengandalkanku. Aku ingin kamu bilang apa adanya \nperasaanmu mulai sekarang.",
+            "text": "Jadi, jangan latihan sendiri lagi. Sebagai gantinya, \nbersandarlah padaku. Aku ingin dengar semua isi hatimu.",
             "name": "<username>"
         },
         {
@@ -152,7 +152,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Trainer-san, apa kamu sungguh siap? \nUntuk menjadi… “satu tubuh dan satu jiwa” denganku?",
+            "text": "Apa kamu benar-benar siap, Trainer-san? Siap untuk \nmenjalin hubungan yang... ya, seperti 'dua raga satu jiwa' denganku?",
             "name": "Mejiro McQueen",
             "choice_data_list": [
                 "Tentu saja!",
@@ -164,7 +164,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kamu selalu menomorsatukan kami daripada dirimu sendiri.",
+            "text": "Kamu selalu mendahulukan kami daripada dirimu sendiri.",
             "name": "Mejiro McQueen"
         },
         {

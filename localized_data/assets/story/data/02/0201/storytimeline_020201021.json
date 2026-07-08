@@ -2,23 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Aduh, kesel banget～……!",
+      "text": "Kesel banget～……!",
       "name": "Rhein Kraft"
     },
     {
-      "text": "Pas balapan tadi aku bikin banyak banget kesalahan!\nLari nya sama sekali nggak kayak yang aku mau……\nAaaah, banyak banget yang harus aku perbaiki……!",
+      "text": "Di tengah balapan tadi aku bikin banyak kesalahan! Sama sekali nggak bisa lari sesuai rencana…… Aaah, rasanya penuh penyesalan banget……!",
       "name": "Rhein Kraft"
     },
     {
-      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren\nbanget sih……\nTapi ya aku ngerti, kamu masih nggak puas ya.",
+      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren\nbanget sih…… Tapi ya aku ngerti, kamu masih nggak puas ya.",
       "name": "<username>"
     },
     {
-      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren\nbanget sih……\nTapi ya aku ngerti, kamu masih nggak puas ya.",
-      "name": "<username>"
-    },
-    {
-      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren banget sih……\nTapi ya aku ngerti, kamu masih nggak puas ya.",
+      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren\nbanget sih…… Tapi ya aku ngerti, kamu masih nggak puas ya.",
       "name": "<username>"
     },
     {
@@ -26,43 +22,43 @@
       "name": "Rhein Kraft"
     },
     {
-      "text": "Aku pengen bisa dapetin hasil yang lebih bagus lagi.\nSupaya aku bisa jadi orang yang aku pengen jadi……!",
+      "text": "Aku ingin bisa memberikan hasil yang jauh lebih baik lagi.\nDemi menjadi sosok yang aku impikan……!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Ya. Aku ingin menjadi sosok 'Umamusume\nyang diimpikan' bagi seseorang――",
       "name": "Rhein Kraft",
       "choice_data_list": [
         "『Jadi orang yang kamu pengen jadi』?"
       ]
     },
     {
-      "text": "Iya. Kayaknya sih… jadi\n『Umamusume yang dikagumin semua orang』",
+      "text": "……Aku, sangat mengidolakan para\nsenior yang berjuang di rute Triple Tiara.",
       "name": "Rhein Kraft"
     },
     {
-      "text": "……Aku bener-bener kagum sama mereka.\nSenpai-senpai di jalur Triple Tiara.",
+      "text": "Para senior telah memberiku banyak hal emosional,\nseperti rasa haru, keberanian, dan impian.",
       "name": "Rhein Kraft"
     },
     {
-      "text": "Inspirasi, semangat, mimpi……\nHal-hal berkilau kayak gitu yang mereka kasih ke aku.",
+      "text": "'Aku ingin berlari sekencang dan seberkilau itu demi menerangi\nhati seseorang!'…… Rasa kagum seperti itulah yang kupunya.",
       "name": "Rhein Kraft"
     },
     {
-      "text": "『Aku pengen lari kayak gitu. Pengen jadi kuat, gemilang,\ndan bikin orang lain terharu, kayak mereka!』……\nItu semua yang bikin aku termotivasi.",
+      "text": "Kupikir, para senior pun pasti menerimanya dari senior \nterdahulu mereka…… Semangat itu seperti terus \nterhubung, begitulah yang kurasakan.",
       "name": "Rhein Kraft"
     },
     {
-      "text": "Aku percaya hal yang sama juga pernah mereka dapet\n dari senpai-senpai mereka……\ndan itu yang bikin mereka semua saling terhubung.",
+      "text": "Karena itu, aku ingin meneruskan warisan semangat ini.\nSekarang giliran aku yang harus menjadi inspirasi bagi orang lain!",
       "name": "Rhein Kraft"
     },
     {
-      "text": "Makanya, dengan semua yang udah mereka kasih,\naku juga pengen jadi bagian dari itu.\nLain kali, aku pengen jadi orang yang ngasih inspirasi ke yang lain!",
-      "name": "Rhein Kraft",
+      "text": "……Banyaknya penyesalan berarti banyak hal yang bisa dievaluasi besok.\nAyo kita berjuang demi mewujudkan impianmu, Kraft!",
+      "name": "<username>",
       "choice_data_list": [
         "Oh gitu, jadi itu……mimpi kamu",
-                "Oh gitu, jadi itu……mimpi kamu"
+        "Oh gitu, jadi itu……mimpi kamu"
       ]
-    },
-    {
-      "text": "……Punya banyak hal yang harus diperbaiki artinya \nmasih ada banyak ruang buat berkembang.\nSupaya kamu bisa jadi orang yang kamu pengen, ayo kita kerja keras, Kraft!",
-      "name": "<username>"
     },
     {
       "text": "Iya! ……Ah! Tapi……!",
@@ -78,61 +74,57 @@
     },
     {
       "text": "Tentu saja. ……Trainer, kamu jangan nahan diri ya,\naku malah nunggu-nunggu banget.",
-      "name": "Cesario",
-      "choice_data_list": [
-        "Oke, ngerti. Kita Lakukan !",
-                "Oke, ngerti. Kita Lakukan !"
-      ]
+      "name": "Cesario"
     },
     {
-      "text": "Dan begitu, tanggal 25 Desember,\ndebut di hari Natal pun datang. Cesario――",
-            "name": ""
+      "text": "Akhirnya tanggal 25 Desember tiba,\nhari debutnya di hari Natal. Cesario kini――",
+      "name": "Monolog",
+      "choice_data_list": [
+        "Oke, ngerti. Kita Lakukan !",
+        "Oke, ngerti. Kita Lakukan !"
+      ]
     },
     {
       "text": "Huu, huuu……Haaaaaaaaa!!",
       "name": "Cesario"
     },
     {
-      "text": "200 meter terakhir, Cesario maju ke depan!\nSekarang pemimpin barunya Cesario! Itu Cesario!!",
+      "text": "Sisa 200 meter, Cesario berhasil menerobos!\nPosisi terdepan berubah! Cesario memimpin! Cesario!!",
       "name": "Penyiar"
     },
     {
-      "text": "Finish!! Juara pertama Cesario, itu Cesario!\nDia menandai debutnya dengan kemenangan yang spektakuler!!",
+      "text": "Goal-In!! Juara pertama adalah Cesario, Cesario!\nSebuah kemenangan yang sangat gemilang di laga debutnya!!",
       "name": "Penyiar"
     },
     {
-      "text": "Cesario! Kerja bagus di debut kamu.\nSelamat juara 1! Itu lari yang bener-bener keren……!",
-      "name": "<username>"
-    },
-     {
-      "text": "Cesario! Kerja bagus di debut kamu.\nSelamat juara 1! Itu lari yang bener-bener keren……!",
+      "text": "Cesario, kerja bagus di laga debutmu! \nSelamat untuk juara satu! Larimu tadi benar-benar hebat……",
       "name": "<username>"
     },
     {
-      "text": "Cesario! Kerja bagus di debut kamu.\nSelamat juara 1! Itu lari yang bener-bener keren……!",
+      "text": "Cesario, kerja bagus di laga debutmu! \nSelamat untuk juara satu! Larimu tadi benar-benar hebat……",
       "name": "<username>"
     },
     {
-      "text": "Trainer……makasih banyak buat pujiannya.\n……Tapi, aku kan baru aja nyelesain balapan pertama.",
+      "text": "Trainer…… terima kasih banyak atas pujiannya.\n……Namun, saya baru saja menyelesaikan balapan pertama saya.",
       "name": "Cesario"
     },
     {
-      "text": "Aku berniat terus berusaha tanpa lengah,\njadi tolong terus kasih bimbingan yang ketat ya.",
+      "text": "Saya akan tetap fokus dan terus mengasah diri. Jadi \nmohon bimbingannya dengan jauh lebih ketat lagi mulai sekarang.",
+      "name": "Cesario"
+    },
+    {
+      "text": "Meski baru menang, Cesario tetap membungkuk hormat \ntanpa tersenyum. Dia adalah definisi nyata dari \nUmamusume yang bermental baja dan bersahaja……!",
+      "name": "Monolog"
+    },
+    {
+      "text": "Okee, kalau gitu…… Selamat Natal yaa♪ Eh,\naku udah buatin kue nih, boleh langsung dibagi-bagi sekarang?",
       "name": "Cesario",
       "choice_data_list": [
         "B-baik……! Serahin aja ke aku!"
       ]
     },
     {
-      "text": "Padahal dia baru aja menang, tapi tanpa senyum sedikitpun,\nCesario nundukin kepala.\nDia Umamusume yang bener-bener nunjukin arti keteguhan…!",
-            "name": ""
-    },
-    {
-      "text": "Oke deh kalau gitu! Selamat Natal♪\nAh iya, aku bikin kue loh, boleh aku potongin sekarang?",
-      "name": "Cesario"
-    },
-    {
-      "text": "Aku sibuk nyiapin debut jadi semua aku serahin ke kalian,\ntapi sebenernya aku pengen juga ngelakuin sesuatu……\nJujur aja, aku suka banget bikin kue manis!",
+      "text": "Karena ada balapan debut, semua persiapan kuserahkan \npada Anda……Tapi aku ingin melakukan sesuatu juga. \nSebenarnya, aku suka banget bikin kue!",
       "name": "Cesario"
     },
     {
@@ -140,62 +132,58 @@
       "name": "Cesario"
     },
     {
-      "text": "……Malam setelah debutnya.\nBarengan dengan itu, tim <Ascella> lagi ngadain pesta Natal, tapi...",
-            "name": ""
+      "text": "……Malam pascabalapan debutnya. Tim Ascella \nberkumpul untuk pesta Natal sekaligus syukuran, tapi――",
+      "name": "Monolog"
     },
     {
-      "text": "……Tunggu dulu, tunggu sebentar――!",
+      "text": "……Tunggu. Bentar, tunggu sebentar――!",
       "name": "King Halo"
     },
     {
-      "text": "Kamu siapa sebetulnya!?!?",
+      "text": "SIAPA KAMU!?!?",
       "name": "Rekan Tim"
     },
     {
-      "text": "Ahaha! Ya ampun, ini jelas Cesario～!\nHoreee, kue-nya Cesario～! Aku nunggu-nunggu banget～♪",
+      "text": "Ahaha! Ada-ada aja, ya jelas ini Cesario dong~!\nYay, akhirnya kue Cesario~! Aku udah nungguin dari kemarin tahu~♪",
       "name": "Rhein Kraft"
     },
     {
       "text": "Hati-hati jangan sampai kena krim lagi di hidung kamu, Kraft.\nAh, Trainer juga, ada buah favorit nggak?",
-      "name": "Cesario",
+      "name": "Cesario"
+    },
+    {
+      "text": "Serius…… Kamu beneran Cesario……?! Aduh, gimana \nbilangnya ya, pembawaanmu bener-bener berubah total……!",
+      "name": "<username>"
+    },
+    {
+      "text": "Serius…… Kamu beneran Cesario……?! Aduh, gimana \nbilangnya ya, pembawaanmu bener-bener berubah total……!",
+      "name": "<username>",
       "choice_data_list": [
         "S-stroberi sih mungkin-……eh bentar!"
       ]
     },
     {
-      "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
-      "name": "<username>"
-    },
-     {
-      "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
-      "name": "<username>"
-    },
-    {
-      "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
-      "name": "<username>"
-    },
-    {
-      "text": "Ah…kalau dipikir-pikir, sejak aku gabung tim,\naku selalu serius banget…\nkayaknya ini pertama kalinya aku bener-bener santai?",
+      "text": "Ah…… Iya juga ya, selama ini aku selalu memasang mode serius…… \nMungkin baru sekarang aku bisa melepaskan semua beban?",
       "name": "Cesario"
     },
     {
       "text": "Cesario tuh tipenya ada saklar on-off yang ekstrem banget, gitu～!",
-      "name": "Rhein Kraft",
-      "choice_data_list": [
-        "O-oh gitu…………?"
-      ]
+      "name": "Rhein Kraft"
     },
     {
-      "text": "Nggak, ini kayaknya udah bukan sekadar on-off switch lagi……",
+      "text": "Eh, ini kayaknya udah bukan sekadar on-off switch lagi……",
       "name": "King Halo"
     },
     {
-      "text": "Pesta tim yang penuh kejutan tak terduga.\nDiiringi tawa rame dan bahagia, malam Natal akhirnya berakhir…",
-            "name": ""
+      "text": "Sebuah kejutan manis di pesta perayaan tim. Diiringi\nramainya suara tawa yang ceria, malam Natal pun berlalu begitu saja…….",
+      "name": "Monolog"
     },
     {
       "text": "……zzz……",
-      "name": "King Halo"
+      "name": "King Halo",
+      "choice_data_list": [
+        "O-oh gitu…………?"
+      ]
     },
     {
       "text": "Hehe……King-san ketiduran di sofa tuh～.\nDia bahkan nggak bangun waktu Trainer mindahin dia.",
@@ -206,27 +194,20 @@
       "name": "Umamusume Ponytail"
     },
     {
-      "text": "Iya bener. Semoga dia gak masuk angin kalau tidur kayak gini…\nTrainer, ada sesuatu nggak buat jadi selimut?",
+      "text": "Benar juga ya. Tapi, jangan sampai kita masuk angin…… \nTrainer, apa ada selimut atau sejenisnya di sini?",
       "name": "Cesario"
     },
     {
-      "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
-      "name": "<username>"
-    },
-     {
-      "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
+      "text": "Ah, mantelku ada di gantungan sebelah sana.\nBisa tolong pakaikan ke dia? Terima kasih, Cesario.",
       "name": "<username>"
     },
     {
-      "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
+      "text": "Ah, mantelku ada di gantungan sebelah sana.\nBisa tolong pakaikan ke dia? Terima kasih, Cesario.",
       "name": "<username>"
     },
     {
-      "text": "Siap. ……Eh? Maaf, ini ada di bawah mantelmu, ini……?",
-      "name": "Cesario",
-      "choice_data_list": [
-        "Ah! Itu……"
-      ]
+      "text": "Bukan masalah. ……Lho, apa ini? \\nMaaf, tadi tertutup oleh mantel, ini…",
+      "name": "Cesario"
     },
     {
       "text": "Aku tadinya mau kasih nanti……\nitu hadiah kecil buat semua orang. Nggak istimewa banget sih.",
@@ -234,10 +215,6 @@
     },
     {
       "text": "Aku tadinya mau kasih nanti……\nitu hadiah kecil buat semua orang. Nggak istimewa banget sih.",
-      "name": "<username>"
-    },
-    {
-      "text": "Aku tadinya mau kasih nanti……\nitu hadiah kecil buat semua orang.\nNggak istimewa banget sih.",
       "name": "<username>"
     },
     {
@@ -246,22 +223,45 @@
     },
     {
       "text": "Trainer……maaf ya, aku harusnya juga nyiapin sesuatu.",
+      "name": "Cesario",
+      "choice_data_list": [
+        "Ah! Itu……"
+      ]
+    },
+    {
+      "text": "Gimana kalau kemenangan debutku kita anggap aja sebagai\nhadiah buat kamu? Bisa dimaafin nggak? Hehe.",
       "name": "Cesario"
     },
     {
-      "text": "……gimana kalau kemenangan\n debutku kita anggap aja sebagai hadiah buat kamu?\nBisa dimaafin nggak? Hehe.",
-      "name": "Cesario",
+      "text": "(…Aku sadar kalau Kraft dan Cesario benar-benar anak yang baik.\nMereka tidak hanya berbakat, tapi juga punya kemampuan nyata……)",
+      "name": "<username>"
+    },
+    {
+      "text": "(…Aku sadar kalau Kraft dan Cesario benar-benar anak yang baik.\nMereka tidak hanya berbakat, tapi juga punya kemampuan nyata……)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Tapi, hal itu justru membuatku bertanya-tanya. Mengapa \nmereka memilih Tim Ascella yang sedang berada di masa sulit ini?)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Tapi, hal itu justru membuatku bertanya-tanya. Mengapa \nmereka memilih Tim Ascella yang sedang berada di masa sulit ini?)",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau memang ada maknanya, aku harus tahu buat ke depan.\nDengan pikiran itu, aku tanya mereka abis latihan suatu hari.",
+      "name": "Monolog",
       "choice_data_list": [
         "Nggak, itu udah lebih dari cukup!"
       ]
     },
     {
-      "text": "(sekali lagi aku ngerasa kalau Kraft sama Cesario itu beneran baik.\nNggak cuma itu, mereka juga super berbakat…)",
-      "name": "<username>"
+      "text": "Waktu aku nanya, mereka saling liat dan senyum, terus――",
+      "name": "Monolog"
     },
     {
-      "text": "(sekali lagi aku ngerasa kalau Kraft sama Cesario itu beneran baik.\nNggak cuma itu, mereka juga super berbakat…)",
-      "name": "<username>"
+      "text": "……karena kami ngerasa cuma kamu saja yang bisa.",
+      "name": "Kraft & Cesario"
     },
     {
       "text": "(Tapi, tiap inget itu… aku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke\ntim <Ascella> yang udah terpuruk?)",
@@ -275,17 +275,17 @@
       "text": "(Tapi, tiap inget itu……aku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke tim <Ascella> yang udah terpuruk?)",
       "name": "<username>"
     },
-     {
+    {
       "text": "(Tapi, tiap inget itu……aku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke tim <Ascella> yang udah terpuruk?)",
       "name": "<username>"
     },
     {
       "text": "Kalau memang ada maknanya, aku harus tahu buat ke depan.\nDengan pikiran itu, aku tanya mereka abis latihan suatu hari.",
-            "name": ""
+      "name": ""
     },
     {
       "text": "Waktu aku nanya, mereka saling liat dan senyum, terus――",
-            "name": ""
+      "name": ""
     },
     {
       "text": "……karena kami ngerasa cuma kamu yang bisa.",

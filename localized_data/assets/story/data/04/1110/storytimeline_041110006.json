@@ -1,0 +1,233 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Pas hari libur. Waktu lagi jalan-jalan di kota, kebetulan aku lihat Cesario. Pas dia nyadar, dia langsung nyamperin aku."
+        },
+        {
+            "name": "Cesario",
+            "text": "Siang! Trainer-san mau ke mana nih?",
+            "choice_data_list": [
+                "Habis belanja nih, kamu sendiri?",
+                "Habis belanja nih, kamu sendiri?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Mau nonton teater komedi♪ Judulnya lagi tren, 『Mimpi Tuan Tanah yang Gelisah』.",
+            "choice_data_list": [
+                "Wah, seru tuh!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya. Udah lama banget pengen nonton... Saking senangnya, semalam sampai susah tidur."
+        },
+        {
+            "text": "Lihat Cesario sesenang itu, aku tiba-tiba kepikiran. Ini kesempatan bagus buat lebih kenal dia kan?",
+            "choice_data_list": [
+                "Eh, tiketnya masih ada nggak?",
+                "Eh, tiketnya masih ada nggak?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Eh? Umm, di web sih katanya masih ada yang jual di sana... Ah, Trainer-san, jangan-jangan――!",
+            "choice_data_list": [
+                "Kalau kamu nggak keberatan, nonton bareng yuk."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Waaah...! Fufu, boleh banget! Ayo!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Tempat duduknya bebas kok, jadi kita bisa duduk bareng! Yuk, berangkat!"
+        },
+        {
+            "name": "Aktor A",
+            "text": "Nggak mungkin! Masa rumahku disita!? Nggak masuk akal! ...ini pasti cuma mimpi! Buruan bangunin aku-!"
+        },
+        {
+            "name": "Cesario",
+            "text": "...Hehe."
+        },
+        {
+            "name": "Aktor B",
+            "text": "Aduh, tiap hari ngomong gitu terus, nggak capek apa... Kamu nggak lagi mimpi. Rumah besarmu udah melayang, sekarang kamu nggak punya tempat tidur."
+        },
+        {
+            "name": "Cesario",
+            "text": "Ahaa... Fu, fufu."
+        },
+        {
+            "text": "Cesario kelihatan asyik banget, ekspresinya gonta-ganti sampai sisi kekanakannya keluar. Sifat seriusnya yang biasa hilang entah ke mana."
+        },
+        {
+            "name": "Cesario",
+            "text": "Haaa～, kayaknya malam ini bakal susah tidur lagi deh. Pasti kepikiran terus, fufu♪",
+            "choice_data_list": [
+                "Kamu ketawa terus dari tadi.",
+                "Kamu ketawa terus dari tadi."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Ah... abisnya nggak tahan... Maaf ya, aku terlalu berisik ya?",
+            "choice_data_list": [
+                "Nggak lah! Aku malah senang lihat kamu asyik gitu!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Syukurlah... Lagian emang selucu itu sih. Pipiku sampai pegal. Jangan-jangan nanti kram lagi.",
+            "choice_data_list": [
+                "Mau mampir ke kafe habis ini?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Boleh. Ayo deh, fufu."
+        },
+        {
+            "text": "Kita rehat sejenak sambil ngopi. Tapi semangatnya Cesario masih belum turun juga.",
+            "choice_data_list": [
+                "Kamu suka banget ya sama komedi tadi.",
+                "Kamu suka banget ya sama komedi tadi."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya. Udah suka dari kecil kok."
+        },
+        {
+            "name": "Cesario",
+            "text": "...sekitar pas aku mulai kagum sama orang tuaku, dan pengen jadi 『Cahaya Penuntun』."
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku punya mimpi yang harus diwujudin――cuma itu yang ada di kepalaku waktu itu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Tapi waktu itu, aku belum bisa ngungkapin perasaanku dengan benar. Bawaannya tegang terus."
+        },
+        {
+            "name": "Cesario",
+            "text": "Jadinya kecapekan... sampai akhirnya aku tumbang.",
+            "choice_data_list": [
+                "Ternyata pernah kejadian gitu ya..."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya. Namanya juga masih kecil. Orang tuaku langsung ambil cuti dan ngajak aku nonton teater."
+        },
+        {
+            "name": "Cesario Muda",
+            "text": "Tapi, aku mau di rumah aja buat belajar..."
+        },
+        {
+            "name": "Ayah Cesario",
+            "text": "Anak pintar, hari ini ikut Ayah Ibu jalan-jalan ya? Katanya drama ini seru banget lho!"
+        },
+        {
+            "name": "Ibu Cesario",
+            "text": "Iya, hari ini lupain dulu soal belajar. Ibu juga libur kerja. Kita ketawa-ketawa aja. ――Tuh, udah mulai...!"
+        },
+        {
+            "name": "Aktor C",
+            "text": "Tuan, ini telur mata sapi dari telur kuning ganda. Pertanda bagus nih. Silakan dinikmati."
+        },
+        {
+            "name": "Aktor D",
+            "text": "Ngomong apa kamu!? Ini malah pertanda buruk tau! Kalau ada keberuntungan datang, habis itu pasti ada masalah!"
+        },
+        {
+            "name": "Cesario Muda",
+            "text": "......"
+        },
+        {
+            "name": "Cesario Muda",
+            "text": "Pfft... Fufu, ahahaha♪"
+        },
+        {
+            "name": "Cesario",
+            "text": "Awalnya kupikir cuma buang waktu, tapi tau-tau――aku malah keasyikan nonton!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Sama kayak hari ini, pas dramanya kelar, pipiku pegal. ...dan semua rasa tegangku hilang."
+        },
+        {
+            "name": "Ayah Cesario",
+            "text": "Dengar, Cesario. Mimpi itu emang harus dikejar mati-matian. Kalau nggak, nggak bakal terwujud."
+        },
+        {
+            "name": "Ayah Cesario",
+            "text": "Tapi, nyantai dan bikin pikiran tenang itu juga penting. Makanya kita pergi bareng-bareng sekeluarga!"
+        },
+        {
+            "name": "Ibu Cesario",
+            "text": "Bener. Kadang ada hal yang cuma bisa kelihatan pas kita lagi santai. Sama kayak ada hal yang cuma bisa dicapai kalau kita kerja keras."
+        },
+        {
+            "name": "Ibu Cesario",
+            "text": "Ibu yakin Cesario paham maksudnya. Kamu kan putri kebanggaan kami."
+        },
+        {
+            "name": "Cesario",
+            "text": "Setelah itu, aku perlahan sadar sama apa yang mereka ajarin. Pelan-pelan aku mulai bisa misahin waktu serius dan santai."
+        },
+        {
+            "name": "Cesario",
+            "text": "Makanya aku suka komedi, bukan cuma karena seru. Tapi juga karena dari situ aku belajar hal penting dari orang tuaku.",
+            "choice_data_list": [
+                "Jadi kenangan yang berharga ya.",
+                "Jadi kenangan yang berharga ya."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya! Aku jadi makin sayang sama mereka, dan kenangan itu bikin aku makin hormat ke mereka."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dan itu bikin aku sadar kalau 『Guru』 itu luar biasa!"
+        },
+        {
+            "text": "Dari matanya yang berbinar, kelihatan banget seberapa dalam sayangnya dia ke orang tuanya.",
+            "choice_data_list": [
+                "Kamu beneran hormat ya sama orang tuamu?",
+                "Kamu beneran hormat ya sama orang tuamu?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya, banget! Kalau bukan karena ajaran mereka, aku mungkin nggak bakal ada di sini sekarang."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Makanya, aku pengen jadi 『Cahaya Penuntun Umamusume masa depan』, biar nanti pas aku lihat lagi ke 『Masa Kini』, itu――"
+        },
+        {
+            "name": "Cesario",
+            "text": "――nama orang tuaku juga bisa terukir di sejarah sebagai 『Sumber Cahaya Itu』."
+        },
+        {
+            "name": "Cesario",
+            "text": "Indah banget kan? Sumber mimpi itu juga bakal jadi bagian dari mimpinya.",
+            "choice_data_list": [
+                "Kita bisa bawa semua itu ke masa depan.",
+                "Kita bisa bawa semua itu ke masa depan."
+            ]
+        },
+        {
+            "text": "Nggak nyangka aku jadi tau seberapa jauh Cesario mandang ke masa depan."
+        },
+        {
+            "text": "Kalau perasaan ini dijadiin kata-kata, aku pengen mastiin mimpi besar ini jadi cerita yang lebih luar biasa... Rasanya aku nggak bisa berhenti mikir gitu."
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Beberapa saat kemudian. Aku pengen dengerin Agnes Digital lebih lanjut, jadi aku pergi nyari dia."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Hei kamu. Lagi ngapain tingkahnya mencurigakan gitu? Jangan-jangan kamu lagi nguntitin Umamusume di siang bolong gini ya?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! Canda, canda. Kelakuanmu itu mirip banget sama \"pelatih pencinta Umamusume-chan\" yang sering diomongin Digital-kun.",
+            "choice_data_list": [
+                "Kamu kenal Agnes Digital?",
+                "Kamu kenal Agnes Digital?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ya ampun, ternyata beneran <i>kamu</i> toh? Boleh juga..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kalau nyari Digital-kun, dia lagi keluar. Kayaknya sih arah stasiun. Taruhan deh, pasti dia lagi berburu merch Umamusume lagi kayak biasa――",
+            "choice_data_list": [
+                "Makasih ya!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Hmm, pelatih nyariin Digital-kun ya? Apa dia bisa jaga jarak dari orang kayak gitu? Fufu, menarik banget."
+        },
+        {
+            "text": "Ngikutin saran Agnes Tachyon, aku lanjut nyari Digital. Dan terus――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ahh～..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, kaki yang meluncur di atas rumput hijau, penuh keanggunan dan pesona... Oh, kaki yang nendang tanah dengan kuat, penuh energi dan semangat..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Foto mana yang harus kubeli? ――Pertanyaan bodoh! Jelas aku beli dua-duanya dong!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ahhh, Tuhan di surga, terpujilah nama-Mu! Karena udah ngasih aku hidup di dunia yang dipenuhi para dewi ini!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Iya―― Aku, Digitan, bakal ngabdiin masa mudaku buat <i>kalian</i>, Umamusume-chan! Aku salah karena sempat <i>kepikiran</i> buat lari bareng mereka!",
+            "choice_data_list": [
+                "Apa....!?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eh, mau apa...? Siapa...?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Bwah...!? I- It...!? <i>M-maap, ta-pi, a-pa, ka-mu, de-nger, se-mua, yang, a-ku, bi-lang, ta-di...?</i>",
+            "choice_data_list": [
+                "....Yoi."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Óh</i>......"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Yah, karena kamu udah denger <i>semua itu</i>――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Tapi ini bener-bener pertanyaan paling gede dari yang tergede! Pikirin aja! Siapa aku!? BENER BANGET――!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "――Aku ini AGNES DIGITAL! Umamusume yang paling cinta sama Umamusume-chan dibanding siapa pun!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kamu pikir aku bisa gitu aja <i>milih</i> antara Umamusume-chan rumput sama Umamusume-chan tanah?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nggak bakal, nggak mungkin, mustahil banget!! Itu sama mustahilnya kayak main mandolin tanpa pick!!",
+            "choice_data_list": [
+                "<size=42>Makanya kamu milih nggak mau lari sendiri?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Beneeerrr</i>. Tempat yang paling pas buatku ya diem-diem muja oshi dari balik layar..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ahh... Di hari bersejarah pas aku masih kecil, ngelihat para Umamusume-chan itu di TV, betapa terharunya aku... Mana mungkin aku lupa..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ngelihat para Umamusume-chan bersaing, masing-masing bawa perasaan mereka sendiri... Bukan cuma kilauan mereka yang bikin aku terharu..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Itu \"tekad\" mereka...! Tekad merekalah yang bikin aku mikir kalau mereka itu berharga banget."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Aku juga cukup beruntung bisa lahir sebagai Umamusume. ――Dan Umamusume itu <i>harus</i> lari!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Balapan itu panggung pamungkas buat Umamusume-chan bersinar! Dan aku pengen lihat mereka semua bersinar seterang-terangnya! Aku pengen dukung mereka segenap jiwaku!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Meskipun milih salah satu berarti aku bakal lewatin yang lainnya. Tetep aja...! ...Aku udah mantapin tekadku."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Aku masuk Akademi Tracen. Tapi pas baru selangkah nginjak halaman sekolah――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hi hi hi, hu hu hu... Ahh, udaranya dipenuhi ketawa manisnya Umamusume-chan..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oshi-oshiku ada di sini, nyata! Mereka beneran ada... Mereka 3D... Napas mereka, detak jantung mereka, langkah kaki mereka, semuanya bisa kudengar dari dekat!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ahhh, ini bukan cuma gambar di layar! Mereka Umamusume-chan sungguhan dari Akademi Tracen... ...Pas aku nyadar soal itu――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>――Oh, otakku rasanya mau meledak!!!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "\"Aku mantapin tekadku\"!? <i>Bercanda</i> ya? Tekad recehku nggak ada apa-apanya!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nggak pas aku bisa lihat semua Umamusume-chan kesayanganku dalam format HD di dunia nyata...!! Dan parahnya lagi, aku tau kalau aku punya bakat buat <i>kedua</i> jenis lintasan?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nggak mungkin banget!! Gimana ceritanya aku disuruh milih antara rumput sama tanah?!!!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Nggak, pilihan paling sejati adalah nggak milih sama sekali!!! <i>Itulah</i> jalannya seorang fans!!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Jadi aku <i>nggak</i> bakal milih!! Aku nggak bakal lari di KEDUA lintasannya!!!!"
+        },
+        {
+            "text": "Dia numpahin semuanya. Bisa dibilang dia nggak ada yang disembunyiin lagi. Tapi――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Terus, kamu gimana? Emangnya kamu punya waktu buat ngurusin aku? Bukannya mending kamu perhatiin Umamusume-chan yang lain aja?",
+            "choice_data_list": [
+                "<size=40>(Ada cara lain buat mandang hal ini...)</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Fu fu fu. Nggak bisa jawab kan? Ya udah, aku pergi dulu――",
+            "choice_data_list": [
+                "<size=34>――Kamu punya tekad yang lebih kuat dari siapa pun!</size>",
+                "<size=34>――Kamu punya tekad yang lebih kuat dari siapa pun!</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "......Apa?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Eh, jangan-jangan kamu nggak dengerin apa yang kubilang ya? Aku bahkan nggak punya tekad buat bikin pilihan tau nggak?",
+            "choice_data_list": [
+                "<size=37>Bukan, kamu punya tekad buat <i>nggak</i> bikin pilihan itu!</size>",
+                "<size=37>Bukan, kamu punya tekad buat <i>nggak</i> bikin pilihan itu!</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Bwueh...?"
+        },
+        {
+            "text": "Aku ingat―― Meski badannya kecil, dia nunjukin kekuatan luar biasa di lintasan tanah."
+        },
+        {
+            "text": "Terus lari dengan lincahnya di rumput, sama jagonya kayak pas dia di lintasan tanah."
+        },
+        {
+            "text": "Dia nggak bisa milih salah satu, makanya dia kerahin semuanya di kedua lintasan. Terus kenapa nggak dimanfaatin aja!?――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ummmm... M-maaf ya, tapi aku bener-bener nggak paham apa yang kamu omongin ini..."
+        },
+        {
+            "text": "Aku langsung ngejelasin ideku ke dia. Terus――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "............"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>BWGHAAAAAAAAAAAAAAHHH!!!!!!!???</i>"
+        },
+        {
+            "text": "――Beberapa hari kemudian. Ada kabar yang mulai kesebar ke mana-mana."
+        },
+        {
+            "name": "Vodka",
+            "text": "Eh, denger nggak? Kabar soal Digital...!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Udah! Tapi masih nggak percaya deh. Bener-bener mendadak banget..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Masa dia beneran daftar dua-duanya sih, Balapan Seleksi rumput <i>sama</i> tanah...!"
+        }
+    ]
+}

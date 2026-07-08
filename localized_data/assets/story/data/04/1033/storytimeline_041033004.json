@@ -4,17 +4,15 @@
     {
       "text": "Pada akhirnya aku tidak bisa berbicara dengan Admire Vega setelah balapan.",
       "name": "",
-            "choice_data_list": [
-                "(Aku tak bisa meninggalkannya!)"
-            ]
-    
+      "choice_data_list": [
+        "(Aku tak bisa meninggalkannya!)"
+      ]
     },
     {
       "text": "Aku tidak tahu apa yang mendorongnya untuk balapan, atau apa yang membuatnya begitu khawatir, atau beban apa yang dia miliki. Tapi…",
       "name": "",
       "choice_data_list": [
-       "<size=35>Kalau aku tidak mencari tahu, semuanya sirna.</size>"
-        
+        "<size=35>Kalau aku tidak mencari tahu, semuanya sirna.</size>"
       ]
     },
     {
@@ -22,26 +20,26 @@
       "name": ""
     },
     {
-      "text": "Ah, apa Anda bertanya padaku apakah aku melihat Ayabe-san…? Umm, e-eh…! Kalau aku harus bilang apakah aku melihatnya atau tidak, a-aku harus bilang iya, tapi…",
+      "text": "Ah, apa Anda bertanya padaku apakah aku melihat Ayabe-san…? \nUmm, e-eh…! Kalau aku harus bilang apakah aku melihatnya atau tidak, a-aku harus bilang iya, tapi…",
       "name": "Meisho Doto"
     },
     {
       "text": "Hah Hah Hah Hah! Jika kita bagaikan bintang fana, mungkin kita bisa meraih puncak jauh itu! Namun untuk mencapainya, harus mengorbankan raga!",
       "name": "TM Opera O",
-            "choice_data_list": [
-                "Maksudmu dia di gunung?"
-            ]
+      "choice_data_list": [
+        "Maksudmu dia di gunung?"
+      ]
     },
     {
       "text": "Kalau diucapkan secara terus terang, itu benar! Dan untuk menjelaskannya lebih terus terang lagi, \"dia pergi ke sana untuk lari lintas alam!\"",
       "name": "TM Opera O"
     },
     {
-      "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan….    K-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
+      "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan…. \nK-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
       "name": "Meisho Doto"
     },
     {
-      "text": "A-Ayabe-san sangat teguh dan berlatih di level yang sangat tinggi… Dan aku tahu kali ini tidak berbeda, tapi…",
+      "text": "A-Ayabe-san sangat teguh dan berlatih di level yang sangat tinggi… \nDan aku tahu kali ini tidak berbeda, tapi…",
       "name": "Meisho Doto"
     },
     {
@@ -63,7 +61,7 @@
       "text": "Sambil tertawa keras, dia memberitahuku lebih banyak tentang ke mana Admire Vega pergi.",
       "name": "",
       "choice_data_list": [
-         "Kamu penyelamatku! Sampai jumpa lagi!"
+        "Kamu penyelamatku! Sampai jumpa lagi!"
       ]
     },
     {
@@ -81,11 +79,10 @@
     {
       "text": "Kamu datang untuk berbicara denganku…?",
       "name": "Admire Vega",
-            "choice_data_list": [
-                "Ya!",
-                "Ya!"
-            ]
-      
+      "choice_data_list": [
+        "Ya!",
+        "Ya!"
+      ]
     },
     {
       "text": "Yah, aku tidak ada yang perlu kukatakan padamu. Aku juga tidak berencana untuk direkrut olehmu. Sampai jumpa.",
@@ -97,7 +94,6 @@
       "choice_data_list": [
         "<i>Ayo pergi…!</i>",
         "<i>Ayo pergi…!</i>"
-   
       ]
     },
     {
@@ -116,7 +112,6 @@
       "name": "Admire Vega",
       "choice_data_list": [
         "<i>*Terengah…!*</i>"
-       
       ]
     },
     {
@@ -131,7 +126,7 @@
       "text": "Aku mulai kehilangan pandangannya saat matahari terbenam, aku terus berlari mati-matian di sepanjang jalan yang curam itu.",
       "name": "",
       "choice_data_list": [
-       "<size=35>Aku bahkan tidak bisa melihat kakiku- Uwaah!</size>"
+        "<size=35>Aku bahkan tidak bisa melihat kakiku- Uwaah!</size>"
       ]
     },
     {
@@ -154,8 +149,7 @@
       "text": "Apa ada yang sakit…?",
       "name": "Admire Vega",
       "choice_data_list": [
-       "Huh… Admire Vega!?"
-        
+        "Huh… Admire Vega!?"
       ]
     },
     {
@@ -164,7 +158,6 @@
       "choice_data_list": [
         "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>",
         "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>"
-      
       ]
     },
     {
@@ -172,7 +165,7 @@
       "name": "Admire Vega"
     },
     {
-      "text": "Admire Vega mengerutkan kening sambil menghela napas panjang. Dia kemudian mengajukan pertanyaan kepadaku.",
+      "text": "Admire Vega mengerutkan kening sambil menghela napas panjang. \nDia kemudian mengajukan pertanyaan kepadaku.",
       "name": ""
     },
     {
@@ -187,7 +180,7 @@
       "text": "Jadi kenapa?",
       "name": "Admire Vega",
       "choice_data_list": [
-         "Aku tidak yakin. Tapi…"
+        "Aku tidak yakin. Tapi…"
       ]
     },
     {
@@ -196,7 +189,6 @@
       "choice_data_list": [
         "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>",
         "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>"
-        
       ]
     },
     {
@@ -208,15 +200,14 @@
       "name": "Admire Vega"
     },
     {
-      "text": "Balapan dan menang adalah bebanku, bukan orang lain. Lagi pula, dia… adik perempuanku…",
+      "text": "Balapan dan menang adalah bebanku, bukan orang lain. Lagi pula, \ndia… adik perempuanku…",
       "name": "Admire Vega"
     },
     {
       "text": "Meninggal di tempatku.",
       "name": "Admire Vega",
       "choice_data_list": [
-         "!!!!!"
-        
+        "!!!!!"
       ]
     },
     {
@@ -231,17 +222,16 @@
       "text": "Meskipun begitu…",
       "name": "",
       "choice_data_list": [
-            "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>",
-            "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>"
+        "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>",
+        "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>"
       ]
     },
     {
       "text": "Kakiku sangat berat dan staminaku sudah mencapai batas. Meskipun begitu, karena aku masih bisa melihatnya…",
       "name": "",
       "choice_data_list": [
-          "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>",
-          "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>"
-        
+        "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>",
+        "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>"
       ]
     },
     {
@@ -249,8 +239,7 @@
       "name": "Admire Vega",
       "choice_data_list": [
         "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>",
-       "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>"
-        
+        "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>"
       ]
     },
     {
@@ -258,7 +247,6 @@
       "name": "Admire Vega",
       "choice_data_list": [
         "<size=35>Walau terkesan egois, aku akan tetap mengikutimu!</size>"
-        
       ]
     },
     {
@@ -286,7 +274,7 @@
       "name": "Admire Vega"
     },
     {
-      "text": "Walah... Dia bikin wajah lucu dalam tidurnya. Ini. Berarti… lagi ada sesuatu yang baik terjadi nih.",
+      "text": "Walah... Dia bikin wajah lucu dalam tidurnya. Ini. Ber-ar-ti～…\nLagi ada sesuatu yang baik terjadi nih?",
       "name": "Curren Chan"
     },
     {
@@ -301,8 +289,8 @@
       "text": "Keesokan harinya ada ketukan ragu-ragu di pintu kantorku. Saat aku membuka pintu, masuklah… Admire Vega!",
       "name": "",
       "choice_data_list": [
-          "<size=42>Apa ini soal rekrutan?</size>",
-          "<size=42>Apa ini soal rekrutan?</size>"
+        "<size=42>Apa ini soal rekrutan?</size>",
+        "<size=42>Apa ini soal rekrutan?</size>"
       ]
     },
     {
@@ -317,9 +305,8 @@
       "text": "Aku akan memilihmu.",
       "name": "Admire Vega",
       "choice_data_list": [
-       "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>",
-       "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>"
-        
+        "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>",
+        "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>"
       ]
     },
     {

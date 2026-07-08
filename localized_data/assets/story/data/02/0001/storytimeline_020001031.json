@@ -31,20 +31,20 @@
       "text": "Seperti yang kuduga, program latihanku tidak cukup untuknya.\nSejak saat itu, dia terus melakukannya setiap hari."
     },
     {
-      "text": "Aku paham kau sedang berusaha memperkuat fondasi\nsebelum Spring Tennō Shō…"
+      "text": "Aku paham kau sedang berusaha memperkuat fondasi\nsebelum Tennō Shō Spring …"
     },
     {
-      "text": "Tapi kalau terlalu memaksakan diri, risikonya\nkau justru bisa cedera… Haruskah aku menyuruhnya berhenti keras kepala begitu?\nAtau aku harus mengubah program latihan sesuai maunya?"
+      "text": "Haruskah kutegur dia agar tidak bertindak semena-mena? \nAtau kuubah saja menu latihannya sampai dia puas?"
     },
     {
-      "text": "Aku harus menang di Spring Tennō Shō bagaimanapun caranya!",
+      "text": "Aku harus menang di Tennō Shō Spring bagaimanapun caranya!",
       "name": "Mejiro McQueen"
     },
     {
       "text": "Apa cara terbaik untuk mencapainya?\nKalau Sensei ada di sini, dia pasti tahu apa yang harus dilakukan…\n…Kekhawatiranku seakan tidak ada habisnya."
     },
     {
-      "text": "Keesokan harinya, aku masuk ke ruanganku\nuntuk bersiap menghadapi hari latihan berikutnya.\nNamun, saat masuk aku melihat Mejiro McQueen bersama\nseorang Umamusume yang belum pernah kutemui sebelumnya."
+      "text": "Keesokan harinya, saat menuju ruang Trainer untuk bersiap latihan,\naku melihat seorang Uma Musume asing bersama Mejiro McQueen."
     },
     {
       "text": "Halo, Trainer-san!\nMaaf mengganggumu!",
@@ -79,14 +79,14 @@
       "name": "Mejiro McQueen"
     },
     {
-      "text": "Gangguan harusnya segera pergi, kan?\nDan aku ini gangguan, bukan?",
+      "text": "Gangguan harusnya segera pergi, kan?\nDan aku ini penganggu, bukan?",
       "name": "Mejiro McQueen",
       "choice_data_list": [
         "Apa kamu… kesal…?"
       ]
     },
     {
-      "text": "Tidak, aku tidak marah. Bagaimanapun, rahasia kalian berdua\nbukan urusanku.",
+      "text": "Tidak, aku tidak marah. Bagaimanapun,\nrahasia kalian berdua bukan urusanku.",
       "name": "Mejiro McQueen"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Mejiro Ryan"
     },
     {
-      "text": "“Kadang dia memang agak ceroboh,\ntapi dia selalu tulus dan memikirkan yang terbaik untuk kami Umamusume.”",
+      "text": "“Kadang dia memang agak ceroboh, tapi dia selalu tulus dan\nmemikirkan yang terbaik untuk kami Umamusume.”",
       "name": "Mejiro Ryan"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Mejiro Ryan"
     },
     {
-      "text": "“Dan karena itu, apapun yang terjadi, aku akan tetap bersamanya sampai akhir.”\nItu kata-katanya sendiri.",
+      "text": "“Dan karena itu, apapun yang terjadi, aku akan tetap \nbersamanya sampai akhir.” Itu kata-katanya sendiri.",
       "name": "Mejiro Ryan"
     },
     {
@@ -137,14 +137,14 @@
       "name": "<username>"
     },
     {
-      "text": "Aku kira begitu karena, meskipun dia tidak puas dengan program latihanku,\ndia tidak pernah protes. Sebaliknya, dia malah melakukan latihan rahasia sendiri…"
+      "text": "Pantas saja dia diam-diam latihan sendiri,\nternyata karena gak puas sama latihanku..."
     },
     {
       "text": "Tidak, dia justru sangat percaya padamu.",
       "name": "Mejiro Ryan"
     },
     {
-      "text": "Namun, ada alasan kenapa dia begitu keras pada dirinya sendiri.\nItu semua karena Tennō Shō.",
+      "text": "Namun, ada alasan kenapa dia begitu keras pada\ndirinya sendiri. Itu semua karena Tennō Shō.",
       "name": "Mejiro Ryan"
     },
     {
@@ -152,7 +152,7 @@
       "name": "Mejiro Ryan"
     },
     {
-      "text": "Misalnya, aku diharapkan menang di Classic,\nsedangkan dia harus menang di Tennō Shō karena bakatnya sebagai stayer.",
+      "text": "Misalnya, aku diharapkan menang di Classic,\nsedangkan dia harus menang di Tennō Shō\nkarena bakatnya sebagai stayer.",
       "name": "Mejiro Ryan"
     },
     {
@@ -176,11 +176,11 @@
       "name": "Mejiro Ryan"
     },
     {
-      "text": "McQueen itu orangnya serius sekali,\njadi dia mungkin merasa harus ikut bertanggung jawab.\nJadi…",
+      "text": "McQueen itu orangnya serius sekali, jadi dia mungkin\nmerasa harus ikut bertanggung jawab. Jadi…",
       "name": "Mejiro Ryan"
     },
     {
-      "text": "Sepertinya McQueen hanya terlihat kuat dari luar,\npadahal di dalamnya dia sangat gelisah.\nLatihan rahasia itu mungkin dia lakukan untuk mengalihkan kegelisahannya."
+      "text": "Di balik sikap tegar itu, dia sebenarnya rapuh.\nLatihan sendiri itu cuma caranya untuk mengusir rasa cemas."
     },
     {
       "text": "Jadi aku ingin kau menghentikannya\nsebelum dia terlalu memaksakan diri.",
@@ -201,7 +201,7 @@
       "text": "Sial, selama ini aku ngapain saja?"
     },
     {
-      "text": "Aku terlalu sibuk memikirkan keadaan sekitar,\nsampai gagal melihat apa yang sebenarnya terjadi pada Mejiro McQueen di depanku."
+      "text": "Aku terlalu sibuk memikirkan keadaan sekitar,\nsampai gagal melihat apa yang sebenarnya\nterjadi pada Mejiro McQueen di depanku."
     },
     {
       "text": "…Terima kasih, Ryan.\nKau sudah memberiku pelajaran penting.",

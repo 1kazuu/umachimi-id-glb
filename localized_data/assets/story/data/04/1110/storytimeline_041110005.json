@@ -1,0 +1,176 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Udah beberapa hari sejak cerita Cesario buat jadi 『Cahaya Penuntun Umamusume masa depan』 dimulai. Kita dapat tawaran pemotretan.",
+            "choice_data_list": [
+                "Tema 『Keseharian Umamusume dan Trainer-san』 ya?"
+            ]
+        },
+        {
+            "text": "Kayaknya fokus ke 『Umamusume Populer』, jadi bukan cuma kita. Mungkin bareng Rhein Kraft, Air Messiah, Daring Heart yang ikut balapan Seleksi kemarin――"
+        },
+        {
+            "text": "Generasi ini penuh anak berbakat yang jadi sorotan. Tampil bareng mereka bakal jadi awal yang bagus buat jadi 『Cahaya Penuntun』.",
+            "choice_data_list": [
+                "Ayo berjuang di pemotretan ini!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Makasih udah ngurus pemotretan hari ini. Semoga hasilnya sesuai harapan."
+        },
+        {
+            "name": "Fotografer",
+            "text": "Santai aja, nggak usah kaku. Temanya kan keseharian di sekolah bareng Trainer-san!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Makasih banyak. ...Oh. Sepertinya Trainer-san udah datang――",
+            "choice_data_list": [
+                "Maaf bikin nunggu!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Eh... Trainer-san, tumben bajunya rapi banget? Beda dari biasanya.",
+            "choice_data_list": [
+                "Ini kan penting, jadi aku mau tampil maksimal!"
+            ]
+        },
+        {
+            "text": "Biar bagus di foto, aku sengaja beli jas baru dan potong rambut di salon. Persiapanku udah mantap!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Oh gitu. Baguslah kalau gitu. Mohon kerja samanya ya, Trainer-san."
+        },
+        {
+            "name": "Fotografer",
+            "text": "Kita mulai dari foto pas ketemuan ya! Coba bayangin aja kayak keseharian kalian biasanya!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Baik. Kalau gitu――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san, aku mau diskusi soal balapan selanjutnya.",
+            "choice_data_list": [
+                "Boleh! Ayo bahas sekarang!",
+                "Boleh! Ayo bahas sekarang!"
+            ]
+        },
+        {
+            "name": "Fotografer",
+            "text": "T-Trainer-san, aku tau kamu semangat, tapi... ini kan lagi rapat. Coba kasih aura yang lebih serius ya!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Selanjutnya, ngobrol pas istirahat. Kalau gitu――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san. Aku masak banyak lauk hari ini, mau makan siang bareng?"
+        },
+        {
+            "name": "Fotografer",
+            "text": "Cakep～! Biarpun kelihatan anggun, suasananya tetap hangat! Trainer-san――",
+            "choice_data_list": [
+                "Wah～! Makasih tawarannya!!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "...Hmm, Trainer-san. Kamu agak lebay deh... Senyum biasa aja udah bagus kok buat difoto...",
+            "choice_data_list": [
+                "Eh? Aku terlalu maksa ya...!?"
+            ]
+        },
+        {
+            "name": "Fotografer",
+            "text": "Y-yah... Gimana kalau kita istirahat sebentar!? Kalau belum biasa, pemotretan emang bikin capek."
+        },
+        {
+            "text": "Niatnya mau bantu Cesario, tapi semangatku malah jadi bumerang. Aku cuma kelihatan kayak orang bodoh yang ngerusak suasana.",
+            "choice_data_list": [
+                "Maaf, aku malah jadi beban...",
+                "Maaf, aku malah jadi beban..."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Nggak kok, santai aja. Tapi kamu nggak apa-apa? Kelihatan banget maksain dirinya.",
+            "choice_data_list": [
+                "Tapi nanti calon muridmu bakal lihat foto ini!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "...? Maksudnya gimana...?"
+        },
+        {
+            "text": "Kalau kamu sukses dan jadi 『Cahaya Penuntun』, orang-orang bakal lihat foto ini di masa depan――Itu yang kubilang ke dia.",
+            "choice_data_list": [
+                "Makanya aku harus tampil sempurna...!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Oh, jadi itu alasanmu mikirin banget pemotretan ini... sampai beli jas baru segala."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Padahal kita nggak tahu kapan bisa sampai di titik itu. Nggak nyangka kamu udah mikir sejauh itu dan nyiapin semuanya――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Serius deh, aku bersyukur banget kamu yang jadi 『Partner』-ku. Makasih banyak ya. Cuma kata itu yang bisa gambarin perasaanku sekarang.",
+            "choice_data_list": [
+                "Cesario..."
+            ]
+        },
+        {
+            "text": "(Jepret!)"
+        },
+        {
+            "name": "Fotografer",
+            "text": "Ah, maaf ya padahal lagi istirahat! Ekspresi kalian berdua bagus banget sih, nggak tahan buat moto!"
+        },
+        {
+            "name": "Fotografer",
+            "text": "Tapi berkat itu, aku dapet foto terbaik hari ini! Tatapan mata kalian bicara banyak, emang pantas jadi duo kebanggaan!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san, syukurlah kita bisa penuhi harapan. Kayaknya kita berhasil ninggalin kenangan diri kita yang apa adanya."
+        },
+        {
+            "name": "Cesario",
+            "text": "Mulai sekarang, yuk hadapi semuanya dengan jadi diri sendiri. Biar makin banyak foto kenangan kita yang kayak gini."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Fuu. Kerja bagus ya hari ini♪ Nggak sabar pengen pamerin ke murid-muridku nanti."
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku bisa bangga bilang ke mereka kalau Trainer-san itu orang yang semangat banget dari awal!",
+            "choice_data_list": [
+                "Semoga aja gitu",
+                "Semoga aja gitu"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Pasti dong! Bagiku, itu fakta."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kayaknya kita harus bersyukur ada pemotretan hari ini. Aku jadi lebih kenal Trainer-san, dan paham seberapa besar semangatmu♪"
+        },
+        {
+            "text": "Lihat dia sesenang itu, aku jadi mikir. Aku juga pengen lebih kenal dia, biar rasa saling percaya kita makin kuat."
+        }
+    ]
+}

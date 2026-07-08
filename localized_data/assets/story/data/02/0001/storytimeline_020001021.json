@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Pagi setelah Arima Kinen yang penuh emosi,\nTim Sirius memulai babak baru…"
+      "text": "Pagi hari setelah Arima Kinen yang penuh emosi,\nTim Sirius memulai babak baru…"
     },
     {
       "text": "Apa maksudnya tim ini mau dibubarkan!?",
@@ -135,10 +135,10 @@
       "name": "Mejiro McQueen"
     },
     {
-      "text": "Balapan berikutnya di akhir April.\nYaitu Spring Tennō Shō, lomba jarak jauh 3200 meter."
+      "text": "Balapan berikutnya di akhir April.\nYaitu Tennō Shō Spring, lomba jarak jauh 3200 meter."
     },
     {
-      "text": "Balapan berikutnya di akhir April.\nYaitu Spring Tennō Shō, lomba jarak jauh 3200 meter."
+      "text": "Balapan berikutnya di akhir April.\nYaitu Tennō Shō Spring, lomba jarak jauh 3200 meter."
     },
     {
       "text": "Karena balapan ini akan benar-benar menguji daya tahan,\naku menyarankan dia melatih bentuk larinya."
@@ -171,11 +171,11 @@
       "name": "Mejiro McQueen"
     },
     {
-      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
+      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir\nkalau terlalu berat buat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
       "name": "<username>"
     },
     {
-      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
+      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir\nkalau terlalu berat buat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
       "name": "<username>"
     },
     {
@@ -198,35 +198,35 @@
       "text": "Setelah itu, dia kembali ke lintasan."
     },
     {
-      "text": "Setelah itu, dia kembali ke lintasan."
+      "text": "Kalau dilihat dari samping, dia kelihatan agak cemberut."
     },
     {
-      "text": "Dari cara berlarinya, terlihat dia agak kesal\nkarena hanya diberi 3 putaran."
+      "text": "Sepertinya dia belum benar-benar rela, ya"
     },
     {
-      "text": "Dari cara berlarinya, terlihat dia agak kesal\nkarena hanya diberi 3 putaran."
+      "text": "Apa karena latihanku kalah dibanding Sensei?\nAtau karena kami belum saling percaya...?"
     },
     {
-      "text": "Sepertinya dia memang belum sepenuhnya yakin, ya?",
+      "text": "Dari nyari anggota sampai ngurus tim,\nmasalahku masih banyak banget.",
       "name": "<username>",
-            "choice_data_list": [
-                "Aku yakin pasti bisa!"
-            ]
+      "choice_data_list": [
+        "Aku yakin pasti bisa!"
+      ]
     },
     {
-      "text": "Kalau dibandingkan latihan dari Sensei,\nlatihanku ini mungkin masih kurang.Atau mungkin aku dan dia belum\nbenar-benar punya hubungan saling percaya…",
-            "choice_data_list": [
-                "Aku pasti bisa!"
-            ]
+      "text": "Dari nyari anggota sampai ngurus tim,\nmasalahku masih banyak banget.",
+      "choice_data_list": [
+        "Aku pasti bisa!"
+      ]
     },
     {
-      "text": "Kemampuanku mengelola tim masih kurang.\nAkan sangat membantu kalau kita bisa dapat\nanggota baru lagi.",
+      "text": "Aku pun memantapkan tekadku kembali.",
       "choice_data_list": [
         "Tapi kita pasti bisa melewati ini!"
       ]
     },
     {
-      "text": "Kemampuanku mengelola tim masih kurang.\nAkan sangat membantu kalau kita bisa dapat\nanggota baru lagi.",
+      "text": "Aku pun memantapkan tekadku kembali.",
       "choice_data_list": [
         "Tapi kita pasti bisa melewati ini!"
       ]
