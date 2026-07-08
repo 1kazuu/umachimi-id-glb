@@ -1,6 +1,6 @@
 {
     "windows": {
-        "bundle_name": "YYKXC4AI6SGPUOSHMYVG4GEB3WQCD63U"
+        "bundle_name": "SKALHMAOX7XQWJQXLHSIRR6P24M2T5QD"
     },
     "data": {
         "motion_parameter_list": {
@@ -95,8 +95,5 @@
                 }
             }
         }
-    },
-    "android": {
-        "bundle_name": "3B3UTAJQI57NCWBTURCK2AARBCOU6LTQ"
     }
 }
