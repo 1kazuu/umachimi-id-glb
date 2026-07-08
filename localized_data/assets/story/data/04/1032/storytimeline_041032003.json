@@ -1,0 +1,235 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Beberapa hari setelah Balapan Seleksi, di mana \nAgnes Tachyon pada akhirnya tidak ikut serta."
+        },
+        {
+            "text": "Aku melihatnya di lorong, dan untuk menghindari terlibat \ndalam eksperimen aneh lainnya, aku mencoba melarikan diri \ndengan diam-diam——"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Jadi……kamu sudah memutuskan? Untuk pergi……"
+        },
+        {
+            "text": "『Untuk pergi』……Apakah dia bermaksud『putus akademi』? \nAku berhenti sejenak dan mendengarkan dengan seksama."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ya, kurasa begitu. Sepertinya akademi memaksa aku untuk \nmengikuti seleksi terakhir adalah cara mereka memberi aku \nkesempatan terakhir."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Mengapa tidak……hanya berlari…… \nAtau, mungkin……datang ke kelas lebih sering……"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Aku tidak menyukai penelitianku terus-menerus terganggu. \nDan yakin aku sudah berada di kelas sebanyak mungkin \nwaktu yang memungkinkan, bukankah begitu?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tapi……jika kamu keluar, kamu tidak akan pernah bisa ikut \ndalam Twinkle Series……Bagaimana dengan penelitianmu……?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tentu saja aku akan melanjutkan. Aku masih memiliki \notak dan tubuhku di sini, bagaimanapun juga."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Dan bukan seolah-olah Twinkle Series adalah satu-satunya \ntempat untuk balapan melawan Umamusume terbaik."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Mungkin aku harus memindahkan laboratoriumku ke \nluar negeri！ Inggris, Prancis, Amerika, Dubai——\nkemungkinannya tak terbatas！"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Di luar negeri……itu adalah……usulan yang berani……"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha-ha-ha！ Apa pun demi penelitianku！"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Bagaimanapun, aku berencana menggunakan tubuh Umamusume-ku \nini, milik Agnes Tachyon, untuk menemukan apa yang ada di luar \nkecepatan tertinggi. Itu tidak berubah sedikit pun."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Benarkah begitu?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm……Hmm hmm? Apakah kamu khawatir tentangku?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Mungkinkah setelah menjadi subjek eksperimen begitu banyak kali, \nkamu akhirnya berubah pikiran！? Jangan khawatir, aku bersedia \nmengirimkan obat-obatan masa depanku kepadamu！"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tidak……Aku hanya berharap……Aku tidak akan terlibat \ndalam eksperimen aneh lagi selamanya……"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Apa！！"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tapi……Aku senang kamu terus melanjutkan \npenelitianmu……Selamat tinggal."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah! Cafe, tunggu！ Aku punya satu eksperimen terakhir…… \nTapi sepertinya dia sudah pergi.",
+            "choice_data_list": [
+                "<size=40>Kamu akan keluar dari Tracen Academy?</size>",
+                "<size=40>Kamu akan keluar dari Tracen Academy?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nah, Trainer pemula. Kita sudah sering bertemu \nbelakangan ini, bukankah begitu?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kamu benar-benar berhasil. Aku bisa masuk karena harapan semua \norang padaku, dan mereka bahkan mengabaikan kelakuanku \nyang aneh——tapi sepertinya kesabaran mereka akhirnya habis."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Akademi ini terkenal karena memprioritaskan kebebasan \npara Umamusume dan melakukannya dengan menyediakan \nfasilitas pelatihan terdepan."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tapi akademi tidak membutuhkan pelajar yang tidak \ndirekrut atau tidak melakukan debut resmi."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Karena itu, dengan bolos kelas dan menolak mencari \npelatih karena mungkin mengganggu penelitianku……\nitu membuatku tidak bisa ikut."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Pada akhirnya, akademi menyarankan agar aku \nmengundurkan diri.",
+            "choice_data_list": [
+                "<size=38>Apakah kamu berencana untuk ikut serta?</size>",
+                "<size=38>Apakah kamu berencana untuk ikut serta?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sayang sekali, aku tidak bisa ikut serta dalam Twinkle Series. \nDan penelitianku pasti akan melambat juga."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Namun……tetap lebih baik daripada membiarkan penelitianku \nterhambat karena akademi."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Aku tahu hari ini akan datang. Mungkin aku menunggunya. \nSebenarnya, ini adalah——"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Aku tidak akan membiarkanmu mengatakan sesuatu yang \nsedih seperti『Ini adalah berkah』。"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? Ini dia kejutannya. Kalau bukan salah satu petinggi akademi."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Maaf mengganggu, tapi aku ada urusan dengan dia. \n……Agnes Tachyon, apakah kau benar-benar berniat \nmeninggalkan akademi ini?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Seperti biasa, pikiranku tertuju pada apa yang terbaik untuk \npenelitian aku, Presiden. Ada pertanyaan lain?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ya, itu saja. Oleh karena itu, aku memiliki \npermintaan untuk kamu."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sebuah permintaan? Hmm, apa ya?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ayo ikut berlari bersamaku, Agnes Tachyon."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nah, sekarang……kamu ada di tribun.\nKamu memang cukup berani juga ya, Trainer.",
+            "choice_data_list": [
+                "Jangan pedulikan aku……"
+            ]
+        },
+        {
+            "text": "Agnes Tachyon yang dikabarkan berlari bersama『Kaisar』、\nSymboli Rudolf? Tidak ada yang bisa membuatku berhenti \nmenonton."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm. Baiklah, aku menghargai seseorang yang mengikuti rasa \ningin pengetahuan, Silakan tonton sebanyak yang kamu inginkan."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Karena ini adalah kali terakhir aku berlari di lintasan ini."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Maaf sudah membuatmu menunggu, Agnes Tachyon. \nHanya kita berdua……dan Trainer pemula ini. Sepertinya \nkita bisa menikmati duel kita dengan tenang."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Bukankah itulah sebabnya kamu memilih waktu ini? \nMeskipun aku tidak tahu apa yang kamu harapkan dari ini."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm……Nah, bagaimana kalau 2.000 meter di lapangan Turf?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Apa pun tidak masalah bagiku. Aku yakin aku sangat berhutang \nbudi padamu, jadi aku akan dengan senang hati membalas budi."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Tidak ada alasan untuk berterima kasih padaku.\nPada akhirnya, aku tidak bisa membantu kamu."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha-ha-ha！ Kamu selalu terlalu serius！！ Bagaimanapun, \n2.000 meter di lapangan turf, kan? Aku akan bersiap-siap."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "………",
+            "choice_data_list": [
+                "Ada apa?",
+                "Ada apa?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Dia mendaftar di Tracen untuk mengikuti Twinkle Series dalam \nrangka penelitiannya. Namun, jika tugasnya sebagai pelajar di sini \nmenghalangi penelitiannya, maka kepergiannya tak terhindarkan."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Dia tidak terikat pada Twinkle Series secara khusus, jadi dia memilih \nuntuk mencari tingkat persaingan yang sama di tempat lain."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Segala yang dilakukannya begitu logis, yang membuatnya \nsemakin aneh, kan?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Mengapa dia memilih untuk tetap tinggal di akademi \nini hingga titik jenuh."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Mengapa tinggal di sini, di mana dia tidak bisa menghindari \npara Trainer yang dia sendiri sebut sebagai gangguan, kenapa?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "……Apa pendapatmu?"
+        },
+        {
+            "text": "Begitulah, perlombaan antara Agnes Tachyon dan Symboli Rudolf \ndimulai, dengan aku sebagai penonton tunggalnya！"
+        }
+    ]
+}

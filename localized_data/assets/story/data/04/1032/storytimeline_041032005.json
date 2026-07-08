@@ -1,0 +1,158 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Hah? Tubuhku terasa berat, seperti ikan di darat."
+        },
+        {
+            "text": "Aku membuka mata dan mendapati diriku berada di ruang kelas \nkosong di malam hari, dengan Agnes Tachyon di hadapanku."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kamu berkeringat sangat deras. Suhu tubuhmu…… \nHmm, kamu lumayan demam.",
+            "choice_data_list": [
+                "Eh…… Eh！?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Meskipun hanya kelinci percobaan, tapi tubuhmu melepaskan \npanas sama seperti manusia. Tapi kurasa akan jadi masalah \nkalau tidak."
+        },
+        {
+            "text": "Aku melihat ke bawah ke tubuhku……dan mendapati diriku terikat \npada alat misterius！"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ini mengingatkanku pada saat pertama kita bertemu. Tapi \nsekarang sedikit berbeda. Ini adalah laboratorium pribadiku. \nDi sini, tak ada yang akan menghalangiku！",
+            "choice_data_list": [
+                "<size=36>Laboratorium……Ini cuma ruang kelas biasa！?</size>",
+                "<size=36>Laboratorium……Ini cuma ruang kelas biasa！?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tidak sama sekali！ Aku di sini karena kamulah \nyang menginginkan eksperimen！"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kamulah yang mempersiapkan lingkungan ini. Oleh karena itu, \nbukankah pantas untuk menamai tempat ini sebagai \nlaboratoriumku?",
+            "choice_data_list": [
+                "Aku tidak mengerti……！"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha！ Ketahuilah, tugas kelinci percobaan adalah \nmenerima semua fenomena sebagai eksperimen yang \nmenunggu untuk terjadi."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kamulah yang memilih menjadi kelinci percobaanku. \nApa menurutmu kamu berada di posisi untuk menuntut kapan, \ndi mana, atau bagaimana eksperimenku berlangsung?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Jika aku harus melampaui batasku dan mewujudkan potensi \ntersembunyi dari jenis Umamusume, maka aku harus mengabdikan \ndiri pada penelitian……dengan kata lain, lebih banyak eksperimen！"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sekarang, aku akan membuatmu menelan ciptaan terbaruku. \nLihat, yang ini bersinar biru yang menyenangkan."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh……Dengan ini, kekuatan ototmu akan meningkat \nseribu kali lipat, melahirkan tubuh yang melampaui monster \nmana pun！",
+            "choice_data_list": [
+                "Tunggu, apa！?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Baiklah, buka mulutmu……"
+        },
+        {
+            "text": "Aku tak berdaya di hadapannya. Bagaimanapun, \naku memang sukarela jadi kelinci percobaannya."
+        },
+        {
+            "text": "Aku bersiap dan perlahan membuka mulut——"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Selamat pagi, kelinci percobaanku."
+        },
+        {
+            "text": "Aku menyipitkan mata saat sinar cahaya menyerang pupilku. \nMungkinkah obat tadi……",
+            "choice_data_list": [
+                "<size=40>H-hah！? Apakah tadi semuanya mimpi！?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm? Kamu terlihat cukup ketakutan, lho? Apa kamu \nmimpi buruk atau sesuatu?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Pencahayaan belum berubah, tapi pupilmu membesar. \nHeh-heh-heh……Kamu membuatku penasaran. Ayo, ceritakan \nsemuanya padaku."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Bahkan sampai sekarang, ilmu pengetahuan modern \nbelum bisa menjelaskan mekanisme pasti bagaimana kita \nbermimpi. Namun, dari sudut pandang psikologi mendalam……"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kita bisa menyimpulkan bahwa citra diriku dalam alam bawah \nsadarmu adalah『seorang Umamusume yang bereksperimen \npada orang tanpa mempertimbangkan perasaan mereka』、"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Begitu ya……Aku tidak percaya aku melakukan \nsemua itu dalam mimpimu.",
+            "choice_data_list": [
+                "<size=36>Maaf, aku tidak bermaksud menyinggungmu……</size>",
+                "<size=36>Maaf, aku tidak bermaksud menyinggungmu……</size>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh……Aku benar-benar bilang,『Buka mulutmu……』、\nTachyon dalam mimpimu benar-benar merepotkan."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Seolah-olah kelinci percobaan punya pilihan dalam hal itu！",
+            "choice_data_list": [
+                "Hah?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha！ Kenapa terlihat kaget? Apa kamu lupa bahwa \nkamu adalah subjek percobaanku?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sayang sekali soal tadi. Sedikit lagi dan aku akan diam-diam \nmenuangkan sedikit Obat-β ke tenggorokanmu.",
+            "choice_data_list": [
+                "Hah！?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sekadar klarifikasi, aku berusaha menunjukkan belas kasihan. \nMeskipun β sangat manjur, itu datang dengan konsekuensi \nrasanya yang buruk."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tapi daripada aku berusaha menuangkan 120 mililiter β ke \ntenggorokanmu tanpa tumpah, lebih baik kamu saja untuk \nmenelannya sendiri."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Jauh lebih mudah daripada harus membuka mulutmu paksa！",
+            "choice_data_list": [
+                "Eh, tunggu dulu——"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ada apa, kelinci percobaanku yang manis?『Langkah satu—\nambil obat dari tanganku』『Langkah kedua—minum』、\nCukup mudah, kan?"
+        },
+        {
+            "text": "Sebuah bisikan……"
+        },
+        {
+            "text": "Akibat efek samping β, aku harus menerima pahaku yang \nbersinar biru dan menjadi tontonan orang-orang yang \nmemandang dari kejauhan——untuk waktu yang cukup lama."
+        }
+    ]
+}

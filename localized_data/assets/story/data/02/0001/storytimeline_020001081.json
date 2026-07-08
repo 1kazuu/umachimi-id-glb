@@ -2,13 +2,13 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Balapan pertama musim gugur… \nKyōto Daishōten dimenangkan oleh Mejiro McQueen dengan cara yang luar biasa."
+            "text": "Balapan pertama musim gugur… \nKyōto Daishōten dimenangkan \noleh Mejiro McQueen dengan cara yang luar biasa."
         },
         {
             "text": "Karena perkembangan yang stabil,\nrasa kagum dan simpati publik padanya terus meningkat."
         },
         {
-            "text": "Hebat banget! Buku ini, buku itu, semua buku ada McQueen-nya!",
+            "text": "Gokil! Di buku ini, buku itu, sampai buku\nyang di sana juga, semuanya ada komuk lu, McQueen!",
             "name": "Gold Ship"
         },
         {
@@ -24,7 +24,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Bahkan anak kecil pun tahu tentangmu.\nBukankah begitu, Nona Bintang Umamusume!",
+            "text": "Wih, bocah sekecil ini aja sampai tahu lu, ya.\nHalo, Umamusume Populer~!",
             "name": "Gold Ship"
         },
         {
@@ -56,11 +56,11 @@
             "name": "Gold Ship"
         },
         {
-            "text": "T-tentu saja tidak!\nSebagai anggota Keluarga Mejiro, aku justru dipenuhi rasa bangga!",
+            "text": "T-tentu saja tidak! Sebagai anggota Keluarga Mejiro,\naku justru dipenuhi rasa bangga!",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Hmm… Menurutku nggak apa-apa kok kalau agak gugup sedikit, tahu?",
+            "text": "Yaa... Tapi kalau kata gue mah, \nwajar-wajar aja kali kalau lu ngerasa takut.",
             "name": "Gold Ship"
         },
         {
@@ -76,7 +76,7 @@
         },
         {
             "text": "McQueen-san, dengar deh!\nJumlah Umamusume yang ingin pindah ke sini semakin bertambah!",
-            "name": "Umamusume dengan Poni Lurus"
+            "name": "Umamusume Berponi Lurus"
         },
         {
             "text": "Sepertinya memang begitu sejak Kyōto Daishōten, ya.",
@@ -84,19 +84,23 @@
         },
         {
             "text": "Itu semua berkat kerja kerasmu yang luar biasa, McQueen-chan.",
-            "name": "Umamusume dengan Bob Hitam"
+            "name": "Umamusume Bob Hitam"
         },
         {
-            "text": "Kalau kamu berhasil menang di Tenno Sho Musim Gugur nanti,\nkamu akan jadi Umamusume kedua yang pernah memenangkan Tenno Sho Musim Semi dan Gugur!",
-            "name": "Umamusume dengan Poni Lurus"
+            "text": "Kalau menang di 'Tenno Sho Autumn' nanti, Kak McQueen bakal cetak\nrekor besar berupa kemenangan beruntun musim semi dan gugur, kan!",
+            "name": "Umamusume Berponi Lurus"
         },
         {
             "text": "Jumlah anggota pasti bakal makin banyak setelah itu!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu"
         },
         {
             "text": "Hadeh… Itu semua hanya kalau aku menang.",
             "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Wajar mereka bersemangat sekarang.\nSoalnya kamu lagi ada di puncak momentum.",
+            "name": "<username>"
         },
         {
             "text": "Wajar mereka bersemangat sekarang.\nSoalnya kamu lagi ada di puncak momentum.",
@@ -108,11 +112,11 @@
         },
         {
             "text": "Kita akan jadi tim besar lagi!",
-            "name": "Umamusume dengan Poni Lurus"
+            "name": "Umamusume Berponi Lurus"
         },
         {
             "text": "Aku akan dukung kamu dari barisan depan!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu"
         },
         {
             "text": "Aku mengerti, semuanya.\nAku akan pastikan menang di balapan berikutnya juga.",
@@ -123,11 +127,16 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "“Aku pasti akan menang,” begitu katanya.\nDan tekad itu jelas terlihat dalam balapan uji coba hari ini."
+            "text": "“Aku pasti akan menang,” begitu katanya.\nDan tekad itu jelas terlihat dalam balapan uji coba hari ini.",
+            "name": "Gold Ship"
         },
         {
             "text": "Woaah! Cepat banget dia!",
             "name": "Gold Ship"
+        },
+        {
+            "text": "Finish! Kemenangan yang luar biasa.\nBahkan gayamu saat melewati garis pun sempurna!",
+            "name": "<username>"
         },
         {
             "text": "Finish! Kemenangan yang luar biasa.\nBahkan gayamu saat melewati garis pun sempurna!",
@@ -142,7 +151,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Aku harus tetap sadar kapan harus\nsprint dan jaga posisi supaya bisa menyelesaikan balapan dengan nyaman.",
+            "text": "Aku harus tetap sadar kapan harus sprint dan\njaga posisi supaya bisa menyelesaikan balapan dengan nyaman.",
             "name": "Mejiro McQueen"
         },
         {
@@ -167,11 +176,14 @@
         },
         {
             "text": "Ah, kalau gitu aku juga mau satu putaran lagi!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu"
         },
         {
-            "text": "Aku juga!\nKalau McQueen-chan kasih segalanya, aku juga harus begitu!",
-            "name": "Umamusume dengan Bob Hitam"
+            "text": "Aku juga! Kalau McQueen-chan kasih\nsegalanya, aku juga harus begitu!",
+            "name": "Umamusume Bob Hitam",
+            "choice_data_list": [
+                "<size=36>Semuanya, pastikan jangan sampai memaksakan diri ya.</size>"
+            ]
         },
         {
             "text": "Eh? Kalian tidak harus memaksakan diri hanya karena aku…",
@@ -179,9 +191,9 @@
         },
         {
             "text": "Tidak apa-apa, jangan khawatirkan kami!\nSoalnya, kami suka banget melihat cara kamu berlari.",
-            "name": "Umamusume dengan Poni Lurus",
+            "name": "Umamusume Berponi Lurus",
             "choice_data_list": [
-                "<size=36>Semuanya, pastikan jangan sampai memaksakan diri ya.</size>"
+                "Minna, hati hati"
             ]
         },
         {
@@ -189,26 +201,15 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Woaah! Dia makin semangat! Yah, kayaknya aku harus gangguin dia.",
-            "name": "Gold Ship",
-            "choice_data_list": [
-                "Minna, hati hati"
-            ]
+            "text": "Wih, berapi-api banget~ Ya udah,\ngue samperin ah, mau gue usilin",
+            "name": "Gold Ship"
         },
         {
             "text": "Hei!! Jangan coba-coba tarik ekorku!",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Oh-oh, lagi semangat banget nih～\nHmm, kalo gitu, aku bakal datang gangguin dikit ah",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "EH ! jangan coba-coba pegang ekorku!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Aksi Mejiro McQueen ternyata juga memberi pengaruh baik ke anggota lainnya."
+            "text": "Aksi Mejiro McQueen ternyata juga\nmemberi pengaruh baik ke anggota lainnya."
         },
         {
             "text": "Tidak diragukan lagi, dia adalah sosok utama dalam tim"
@@ -219,7 +220,7 @@
         },
         {
             "name": "<username>",
-            "text": "Ada apa Tazuna , Tumben kemari"
+            "text": "Ada apa Tazuna , Tumben kemari?"
         },
         {
             "name": "Tazuna Hayakawa",

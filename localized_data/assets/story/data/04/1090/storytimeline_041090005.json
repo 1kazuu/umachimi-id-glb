@@ -1,0 +1,156 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Guru Matematika",
+            "text": "Oke. Kita coba selesaikan soal ini pakai rumus Pythagoras ya."
+        },
+        {
+            "name": "Guru Matematika",
+            "text": "Cari tinggi dan volume limas segi empat ini.\n...Oke, siapa yang mau coba maju～?"
+        },
+        {
+            "name": "Murid-murid",
+            "text": "(............)"
+        },
+        {
+            "name": "Guru Matematika",
+            "text": "Hmmm～ Nggak ada yang mau ya.\nKalau gitu... Verxina-san, tolong kerjakan ya?"
+        },
+        {
+            "name": "Verxina",
+            "text": "Baik, dengan senang hati."
+        },
+        {
+            "name": "Verxina",
+            "text": "Titik potong garis tegak lurus dan alasnya kita sebut M―― Kalau panjang AM ketemu――Berarti jawabannya――"
+        },
+        {
+            "name": "Guru Matematika",
+            "text": "Benar! Selalu hebat ya, Verxina-san!"
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufu, nggak kok. Ini karena penjelasan Ibu gampang dipahami."
+        },
+        {
+            "name": "Murid-murid",
+            "text": "『Uwoooh-...!』 『Sudah kuduga～...!』 『Ooooh～...』"
+        },
+        {
+            "name": "Murid Bingung",
+            "text": "Hmmm～... Kok langkahku di sini salah terus ya――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh. Lagi kesulitan ya?"
+        },
+        {
+            "name": "Murid Bingung",
+            "text": "!? V-Verxina-senpai!? Enggak, ini... langkah yang ini susah pasnya――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh, Ball Change ya... emang lumayan susah sih―― tapi mending ikutin irama aja daripada kebanyakan mikir."
+        },
+        {
+            "name": "Verxina",
+            "text": "――Yuk coba bareng. Pelan-pelan aja. Coba ikutin gerakanku ya?"
+        },
+        {
+            "name": "Murid Bingung",
+            "text": "Hah!? Bareng Verxina-senpai...!? Aku nggak enak――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufu, santai aja. Nggak usah tegang―― Mumpung lagi bareng, yuk \nkuasain hari ini."
+        },
+        {
+            "name": "Verxina",
+            "text": "Fuu... Barbell Squat-nya selesai."
+        },
+        {
+            "name": "Murid-murid Penonton",
+            "text": "『Ooooh～... Emang beda ya Verxina-san...』 \n『3 set lebih dari 300 gampang banget――』"
+        },
+        {
+            "name": "Verxina",
+            "text": "Oke. Selanjutnya Bench Press."
+        },
+        {
+            "name": "Murid Semangat",
+            "text": "Ah! Biar aku yang jagain!"
+        },
+        {
+            "name": "Murid Ragu",
+            "text": "Hei!? Curang! Aku juga mau――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Udah, jangan berantem. Hmm―― Kalau gitu, kamu bantu di latihan berikutnya aja ya――",
+            "choice_data_list": [
+                "(...Dia populer banget ya)",
+                "(...Dia populer banget ya)"
+            ]
+        },
+        {
+            "text": "――Pas latihan pun banyak fans yang curi-curi pandang. Dia emang \nsiswi teladan――"
+        },
+        {
+            "name": "Verxina",
+            "text": "...Fuu."
+        },
+        {
+            "name": "Verxina",
+            "text": "Maaf ya, Trainer-san. Menu hari ini udah kelar, tapi malah minta tolong rekam lari aku.",
+            "choice_data_list": [
+                "Nggak apa-apa kok!"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "Aku cuma pengen cek form lariku tiap hari―― Nanti di asrama aku teliti lagi."
+        },
+        {
+            "text": "Mau belajar atau lari, dia selalu kerja keras diam-diam.\nWaktu luang di ruang trainer aja dipakai buat belajar."
+        },
+        {
+            "text": "Semuanya demi capai \"Puncak\"――biar jadi panutan adik-adiknya. Dia beneran hebat――",
+            "choice_data_list": [
+                "............"
+            ]
+        },
+        {
+            "text": "...Verxina aja giat banget, masa aku gini-gini aja?",
+            "choice_data_list": [
+                "(Hmmm... aku juga harus――)",
+                "(Hmmm... aku juga harus――)"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "――Trainer-san. Maaf.",
+            "choice_data_list": [
+                "Eh... a-ada apa?"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "Masih ada waktu sebelum latihan, aku mau ngeteh dulu."
+        },
+        {
+            "name": "Verxina",
+            "text": "Kalau mau, ikutan yuk?",
+            "choice_data_list": [
+                "Boleh..."
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufu, aku buatin tehnya ya. Trainer-san, tolong siapin camilannya ya?"
+        },
+        {
+            "text": "Apa dia sadar aku lagi kepikiran sesuatu?―― Aku emang harus... ngembangin diri biar bisa bantu Verxina."
+        }
+    ]
+}

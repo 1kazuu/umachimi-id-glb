@@ -23,7 +23,7 @@
       "name": "Ayabe Kecil"
     },
     {
-      "text": "Kamu yang sangat ingin balapan? Kamu yang begitu ingin menang? Apakah kamu yang ingin bersenang-senang? Dan… apakah kamu \nyang merasa begitu kesepian…?",
+      "text": "Kamu yang sangat ingin balapan? Kamu yang begitu ingin menang? \nApakah kamu yang ingin bersenang-senang? Dan… apakah kamu \nyang merasa begitu kesepian…?",
       "name": "Ayabe Kecil"
     },
     {
@@ -50,9 +50,9 @@
     },
     {
       "text": "Setelah malam itu, aku tidak bisa menahan rasa khawatir padanya.",
-            "choice_data_list": [
-                "(Entah kenapa, aku jadi khawatir)"
-            ]
+      "choice_data_list": [
+        "(Entah kenapa, aku jadi khawatir)"
+      ]
     },
     {
       "text": "Namun terlepas dari kekhawatiran ini, balapan dimulai tanpa hambatan!"
@@ -94,12 +94,12 @@
       "name": "Trainer Junior A"
     },
     {
-      "text": "Tidak… Tidak! Aku tidak akan dimaafkan jika tidak menang!! Tapi, aku…!!",
+      "text": "Tidak… Tidak! Aku tidak akan dimaafkan jika tidak menang!! \nTapi, aku…!!",
       "name": "Admire Vega",
       "italic": true
     },
     {
-      "text": "Kamu… sangat mencintai lari, ya? Kamu benar-benar ingin balapan, dan menang, bukan?",
+      "text": "Kamu… sangat mencintai lari, ya? Kamu benar-benar ingin balapan dan menang, bukan?",
       "name": "Ayabe Kecil"
     },
     {
@@ -135,10 +135,9 @@
     {
       "text": "Eh? Tunggu, apa itu…",
       "name": "Trainer Senior A",
-            "choice_data_list": [
-                "……！"
-            ]
-      
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
       "text": "Dan gol!! Pemenang balapan seleksi ini adalah Admire Vega! Admire Vega telah menang!",

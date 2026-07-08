@@ -1,0 +1,247 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Kamp pelatihan musim panas. Cesario semangat banget. ――Panasnya ngalahin pasir di bawah terik matahari."
+        },
+        {
+            "name": "Cesario",
+            "text": "Fuu... Trainer-san, boleh nambah satu putaran lagi?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Eh, nggak cuma satu deng. Lebih juga boleh. Aku masih kuat lari.",
+            "choice_data_list": [
+                "...Inget capek juga. Ini yang terakhir ya.",
+                "...Inget capek juga. Ini yang terakhir ya."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "...Ngerti. Bakal kuselesain yang terakhir ini."
+        },
+        {
+            "text": "『Dia kelewat semangat』――kayaknya itu kata yang pas. Semangatnya tinggi banget, tapi malah jadi kelihatan nggak sabaran.",
+            "choice_data_list": [
+                "(Mungkin... gara-gara rivalnya makin jago)"
+            ]
+        },
+        {
+            "text": "Mereka pelan-pelan makin kuat selama kamp musim panas, dan itu bikin dia tertekan."
+        },
+        {
+            "text": "Wajar sih ada rasa saingan. Tapi kalau nggak sabaran malah bikin repot...",
+            "choice_data_list": [
+                "(Aku harus bikin dia agak rileks)"
+            ]
+        },
+        {
+            "text": "Cesario pernah cerita, orang tuanya ngajak nonton komedi pas dia baru mulai ngejar mimpinya."
+        },
+        {
+            "text": "Sekarang giliranku turun tangan bantu dia kayak orang tuanya. Sebagai 『Partner』 yang ada di sampingnya."
+        },
+        {
+            "name": "Cesario",
+            "text": "Makasih bimbingannya. ...Aku pasti kasih hasil bagus di Kamp Musim Panas ini. Kalau gitu――",
+            "choice_data_list": [
+                "Tunggu!... habis ini kosong nggak?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya, kita mau rapat ya? Bentar, aku siapin catatannya dulu――",
+            "choice_data_list": [
+                "Enggak kok, ada yang mau kutunjukkin ke kamu."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "...? Mau nunjukkin apa?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san? ...Aneh deh, harusnya kan kita janjian di sini――"
+        },
+        {
+            "text": "Aku tarik napas panjang, harus siap mode 『On』. Terus, aku ngomong.",
+            "choice_data_list": [
+                "Aah～, aku mau ke mana nih?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "...Eh? Trainer-san...?",
+            "choice_data_list": [
+                "Masa aku 3 hari jalan ke utara bukannya ke selatan?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Jangan-jangan ini...",
+            "choice_data_list": [
+                "(Bener, ini komedi!)",
+                "(Bener, ini komedi!)"
+            ]
+        },
+        {
+            "text": "Kalau komedi kesukaannya, mungkin bisa bikin dia rileks――mikir gitu, aku cari naskah monolog. Semalaman aku hafalin."
+        },
+        {
+            "text": "Padahal aku nggak ada pengalaman akting. Cuma bisa ngulang dialog doang. Biarpun gitu...",
+            "choice_data_list": [
+                "Badut sialan! Sekarang malah aku yang jadi badutnya!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "............",
+            "choice_data_list": [
+                "(G-gimana nih... Aku ngacau ya...!?)"
+            ]
+        },
+        {
+            "text": "Apa amatir mustahil bikin orang terhibur? Aku mulai panik. Tiba-tiba――",
+            "choice_data_list": [
+                "Ah, kakiku... waaah!?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "T-Trainer-san!?"
+        },
+        {
+            "text": "(Sreeeeet!)"
+        },
+        {
+            "name": "Cesario",
+            "text": "K-kamu nggak apa-apa!? Jatuhnya keras banget kena pantat...!!",
+            "choice_data_list": [
+                "Aduh... a-aku nggak apa-apa kok――"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Ah! Awas di belakangmu! Ombak!",
+            "choice_data_list": [
+                "Hyaaaa, dingin banget～～～!?"
+            ]
+        },
+        {
+            "text": "Saking paniknya, aku kesandung kakiku sendiri, jatuh ke air, terus kesapu ombak."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Pfft."
+        },
+        {
+            "name": "Cesario",
+            "text": "T-Trainer-san. Ya ampun, kamu nggak apa-apa?",
+            "choice_data_list": [
+                "Iya, kaget doang, aku aman kok!",
+                "Iya, kaget doang, aku aman kok!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Syukurlah... kamu nggak luka... Tapi, ini yang mau kamu tunjukkin ke aku...?",
+            "choice_data_list": [
+                "Yah, hitung-hitung refreshing... kali ya?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Oh pantesan. Fufu, m-maaf...",
+            "choice_data_list": [
+                "Padahal rencananya nggak gini..."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Enggak kok. Hmm... maaf, tapi tadi asli lucu banget."
+        },
+        {
+            "name": "Cesario",
+            "text": "Ingat muka kaget Trainer-san tadi... Ahaa... Fu fufufu♪"
+        },
+        {
+            "name": "Cesario",
+            "text": "Tapi timing-nya pas banget. Dari awal aku sampai sini, kejadiannya udah kayak komedi beneran!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Awalnya aku kaget sih, mikir ini apaan coba. Fufu.",
+            "choice_data_list": [
+                "Syukurlah kalau kamu senang!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Ahahaha! ...Huu～～... Iya, banget!"
+        },
+        {
+            "text": "Jalan buat jadi 『Cahaya Penuntun』 itu panjang dan susah. Aku paham kenapa dia buru-buru."
+        },
+        {
+            "text": "Ini bukan pentas solo, banyak tokoh utama di generasi ini. Dia bisa aja kegulung ombak saingan yang buas.",
+            "choice_data_list": [
+                "Kamu nggak usah buru-buru.",
+                "Kamu nggak usah buru-buru."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san..."
+        },
+        {
+            "name": "Cesario",
+            "text": "――Iya. Kraft dan yang lain itu kuat, tangguh, dan auranya dominan banget."
+        },
+        {
+            "name": "Cesario",
+            "text": "Tapi aku punya sosok yang lebih penting.\nAku punya 『Partner』 kayak kamu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Itu bikin tenang banget. Aku ngerasain itu selama kita bareng-bareng."
+        },
+        {
+            "name": "Cesario",
+            "text": "Perasaan itu mungkin bakal makin kuat. Kayak hari ini, aku beneran bersyukur."
+        },
+        {
+            "name": "Cesario",
+            "text": "Makanya, aku nggak perlu nggak sabaran kan? Asal aku terus melangkah pasti, jalannya bakal kebuka sendiri."
+        },
+        {
+            "text": "Bener. Aku di sini buat jadiin Cesario tokoh utama di kisah epik Triple Tiara ini. Makanya――",
+            "choice_data_list": [
+                "Cesario, bakal kubikin kamu jadi bintang utamanya.",
+                "Cesario, bakal kubikin kamu jadi bintang utamanya."
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya. Aku nggak bakal kasih peran itu ke orang lain. ――Aku nggak niat biarin siapa pun ngerebutnya."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kita bakal menangin balapan dengan gilang gemilang, biar pantas jadi 『Cahaya Penuntun』."
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san, dengan kamu sebagai 『Partner』-ku, aku yakin kita pasti bisa.",
+            "choice_data_list": [
+                "Iya. Aku nggak bakal ngecewain kamu.",
+                "Iya. Aku nggak bakal ngecewain kamu."
+            ]
+        },
+        {
+            "text": "Nggak perlu diucapin, kita udah saling ngerasain semangat masing-masing. Dan di balik mimpi itu――kita bakal lihat masa depan yang luas bareng-bareng."
+        }
+    ]
+}

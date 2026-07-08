@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Pemenang balapan, Mejiro McQueen, sayangnya \nmenghalangi Umamusume di belakangnya \nsehingga mereka tidak bisa maju di lintasan…",
+            "text": "Mejiro McQueen memang menjadi yang pertama melewati\ngaris finis. Namun, karena terbukti melakukan pelanggaran\njalur terhadap Umamusume lain——",
             "name": "Penyiar"
         },
         {
@@ -10,10 +10,10 @@
             "name": "Penyiar"
         },
         {
-            "text": "Hari itu, Mejiro McQueen memulai \ndengan luar biasa dan langsung masuk \nke sisi dalam lintasan agar bisa menjaga posisi yang bagus ke depan."
+            "text": "Hari itu, setelah melakukan start yang luar biasa, \nMcQueen segera memacu kecepatannya\nmenuju jalur dalam guna merebut posisi yang menguntungkan."
         },
         {
-            "text": "Namun, tindakannya membuat Umamusume di belakangnya tidak punya ruang, \nsehingga berisiko terjatuh."
+            "text": "Namun, tindakannya membuat Umamusume di belakangnya \ntidak punya ruang, sehingga berisiko terjatuh."
         },
         {
             "text": "Insiden mengerikan ini melibatkan \nMejiro McQueen—yang waktu itu paling difavoritkan untuk menang. \nMaka dari itu, tindakannya ramai diberitakan di media."
@@ -44,11 +44,11 @@
         },
         {
             "text": "Aku setuju! Kamu pasti bakal tampil hebat di balapan berikutnya, aku yakin!",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus"
         },
         {
-            "text": "Kamu bisa kok, McQueen-san!",
-            "name": "Umamusume bermata sayu",
+            "text": "Kamu pasti bisa kok, McQueen-san!",
+            "name": "Umamusume Bermata Sayu",
             "choice_data_list": [
                 "<size=42>Mari jadikan ini pelajaran.</size>"
             ]
@@ -58,11 +58,11 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Oye, aku balik!",
+            "text": "Oye, gue balik!",
             "name": "Gold Ship"
         },
         {
-            "text": "Di luar ada orang-orang bawa kamera segala. \nTapi tenang, aku bikin ribut dengan manggil mereka ‘brengsek’ buatmu!",
+            "text": "Gara-gara di luar banyak orang bawa kamera lagi mondar-mandir,\nlangsung gue teriakin aja, 'Ada orang aneh, nih!' Biar kapok sekalian!",
             "name": "Gold Ship"
         },
         {
@@ -70,11 +70,11 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Sepertinya mereka memang menunggu di luar buat wawancara aku.",
+            "text": "Sepertinya mereka memang menunggu\ndi luar buat wawancara aku.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Hmm? Bukannya malah bagus ya? Sampai masuk sejauh ini tanpa jadi murid, \nudah jelas mereka itu penjahat.",
+            "text": "Halah, biarin aja kali. Nekat nyusup sampai ke\narea sekolah begitu, fix mereka itu penjahat yang gak tahu aturan.",
             "name": "Gold Ship"
         },
         {
@@ -82,7 +82,7 @@
             "name": "<username>"
         },
         {
-            "text": "Aku nggak masalah mereka ada di sini. \nMalah kalau mereka punya pertanyaan,\naku dengan senang hati akan jawab dengan tulus.",
+            "text": "Aku tidak memedulikannya. Apa pun yang mereka tanyakan \nnanti, aku akan menghadapinya dengan sepenuh hati.",
             "name": "Mejiro McQueen"
         },
         {
@@ -90,7 +90,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kalau begitu, aku jadi makin semangat latihan. Aku berangkat ya, Trainer-san!",
+            "text": "Kalau begitu, aku jadi makin semangat latihan.\nAku berangkat ya, Trainer-san!",
             "name": "Mejiro McQueen"
         },
         {
@@ -102,7 +102,7 @@
             "name": "<username>"
         },
         {
-            "text": "Asrama ada tepat di sana, tahu? Aku nggak akan tersesat, \nja jadi kau nggak perlu antar aku pulang…",
+            "text": "Asrama kan sudah ada di depan mata.\nKamu tidak perlu repot-repot mengantarku sampai begini, lho……",
             "name": "Mejiro McQueen"
         },
         {
@@ -110,11 +110,11 @@
             "name": "<username>"
         },
         {
-            "text": "Kan sudah kubilang aku tidak keberatan menjawab mereka…",
+            "text": "Sudah kubilang, aku akan sepenuh hati menghadapinya…",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Ah, McQueen-san! Ada komentar soal yang terjadi di Tennō Shō Musim Semi?",
+            "text": "Ah, McQueen-san! Ada komentar\nsoal yang terjadi di Tennō Shō Spring?",
             "name": "Reporter A"
         },
         {
@@ -122,15 +122,15 @@
             "name": "Reporter B"
         },
         {
-            "text": "Aku sungguh meminta maaf \nsebesar-besarnya jika tindakanku \nmerepotkan peserta lain di balapan itu.",
+            "text": "Aku sungguh meminta maaf sebesar-besarnya\njika tindakanku merepotkan peserta lain di balapan itu.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Aku kurang pengalaman, dan karena itu tidak sadar dengan sekelilingku, \nyang akhirnya membuat insiden itu terjadi.",
+            "text": "Aku kurang pengalaman, dan karena itu tidak sadar\ndengan sekelilingku, yang akhirnya membuat insiden itu terjadi.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Apa yang sudah kamu lakukan \nuntuk menebus orang-orang yang dirugikan karena tindakanmu?",
+            "text": "Apa yang sudah kamu lakukan untuk menebus\norang-orang yang dirugikan karena tindakanmu?",
             "name": "Reporter A"
         },
         {
@@ -138,11 +138,11 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Benarkah pelatihmu yang menyuruhmu memaksa masuk ke sisi dalam lintasan?",
+            "text": "Benarkah pelatihmu yang menyuruhmu\nmemaksa masuk ke sisi dalam lintasan?",
             "name": "Reporter B"
         },
         {
-            "text": "Trainer-san menyuruhku melakukan itu!? Aku jamin itu tidak benar!!",
+            "text": "Trainer-san menyuruhku melakukan itu!?\nAku jamin itu tidak benar!!",
             "name": "Mejiro McQueen"
         },
         {
@@ -150,19 +150,19 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Sampai tadi, semua jawaban Mejiro McQueen disampaikan dengan tenang. \nNamun, itu langsung berubah dalam sekejap."
+            "text": "Seketika itu juga, gerak-gerik Mejiro McQueen yang semula \ndihadapi dengan penuh ketenangan, mendadak berubah."
         },
         {
-            "text": "Dia bilang “aku akan dengan senang hati menjawab dengan tulus.” \nKalau itu yang dia yakini sebagai hal benar, maka bukan tempatku untuk menghalangi."
+            "text": "'Menghadapi mereka dengan sepenuh hati'. Jika itu adalah bentuk \npertanggungjawaban yang dia inginkan, maka kupikir aku tidak perlu\nikut campur lebih jauh lagi."
         },
         {
-            "text": "Tapi tetap saja, aku nggak bisa diam melihat dia mencoba menanggung semua kesalahan sendirian.",
+            "text": "Tapi tetap saja, aku nggak bisa diam melihat dia \nmencoba menanggung semua kesalahan sendirian.",
             "choice_data_list": [
                 "McQueen, ayo pergi."
             ]
         },
         {
-            "text": "Tapi tetap saja, aku nggak bisa diam melihat dia mencoba menanggung semua kesalahan sendirian.",
+            "text": "Tapi tetap saja, aku nggak bisa diam melihat dia \nmencoba menanggung semua kesalahan sendirian.",
             "choice_data_list": [
                 "McQueen, ayo pergi."
             ]
@@ -212,15 +212,15 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Aku tahu kita sudah rencanakan Arima Kinen jadi balapan berikutnya, \ntapi aku ingin turun di Japan Cup dulu.",
+            "text": "Aku tahu kita sudah rencanakan Arima Kinen jadi balapan\nberikutnya, tapi aku ingin balapan ke Japan Cup dulu.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kamu yakin? Sepertinya kamu masih lelah dari balapan sebelumnya…",
+            "text": "Kamu yakin? Sepertinya kamu \nmasih lelah dari balapan sebelumnya…",
             "name": "<username>"
         },
         {
-            "text": "Jangan khawatir soal itu. Aku sudah siap untuk balapan berikutnya.",
+            "text": "Jangan khawatir soal itu. Aku \nsudah siap untuk balapan berikutnya.",
             "name": "Mejiro McQueen"
         },
         {
@@ -228,7 +228,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Sepertinya Mejiro McQueen ingin \nsegera menebus kesalahannya di Tennō Shō Musim Semi \ndengan ikut Japan Cup."
+            "text": "Sepertinya Mejiro McQueen ingin segera menebus \nkesalahannya di Tennō Shō Autumn dengan ikut Japan Cup."
         },
         {
             "text": "Dia ingin memakai balapan ini \nsebagai cara menebus kesalahannya \npada orang-orang yang sudah percaya padanya, \ndan pada mereka yang sempat dia rugikan.",
