@@ -1,4 +1,4 @@
-# Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS. Gabung server discord untuk info update dan kritik/saran.
+# Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS.
 ## Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
 
 ## TL UPDATE 09-07-26
