@@ -1,0 +1,21 @@
+{
+    "text_properties_overrides": {
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/TalkGalleryView(Clone)/ContentsRoot/TalkModeRoot/PartsHomeTalkModeUI/SingleModeTextController/TextFrame/WindowBase/StroryTextLabel": {
+            "extents_x": 870.0,
+            "position_offset_x": 15,
+            "horizontal_overflow": 0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/TalkModeHomeTopUI(Clone)/PartsHomeTalkModeUI/SingleModeTextController/TextFrame/WindowBase/StroryTextLabel": {
+            "extents_x": 870.0,
+            "position_offset_x": 15,
+            "position_offset_y": -5,
+            "horizontal_overflow": 0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/CharacterNoteTopView(Clone)/ContentsRoot/RankScoreRoot/PartsCharacterNoteRankScore/NextLevelRoot/NextRankScore": {
+            "position_offset_y": -15
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/DirectoryView(Clone)/ContentsRoot/PartsCharacterNoteRankScore/NextLevel/NextRankScore": {
+            "position_offset_y": -15
+        }
+    }
+}
