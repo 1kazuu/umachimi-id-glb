@@ -100,7 +100,7 @@
             "name": "Buena Kecil"
         },
         {
-            "text": "Aku teringat. Saat dirinya yang terus ngotot. Meski begitu, aku malah tersenyum hangat melihat sifat sensitif dan kebaikan hati yang begitu melimpah――bahkan terlalu berlimpah."
+            "text": "Aku teringat. Saat dirinya terus keras kepala. Meski begitu, aku tersenyum hangat saat melihat sifat sensitif dan kebaikan hatinya yang begitu melimpah ――bahkan terlalu berlimpah."
         },
         {
             "text": "Aku teringat. Suatu hari, setelah Buena Vista sudah mulai bergabung di klub latihan lari untuk para Umamusume kecil."
@@ -135,7 +135,7 @@
             ]
         },
         {
-            "text": "\"Saat aku melihat pertama kali kamu berlari, sejujurnya... aku\". \nKemudian aku memantapkan niat dan menepuk dadaku dihadapan Buena. \"Aku―\"",
+            "text": "\"Saat aku melihat pertama kali kamu berlari, sejujurnya... aku\". \nKemudian aku menguatkan niat dan menepuk dadaku dihadapan Buena. \"Aku―\"",
             "choice_data_list": [
                 "Aku ingin menjadi pelatihmu nanti!",
                 "Aku ingin menjadi pelatihmu nanti!"
@@ -146,7 +146,7 @@
                 "Aku ingin menjadi pelatihmu nanti!",
                 "Aku ingin menjadi pelatihmu nanti!"
             ],
-            "text": "\"Saat aku melihat pertama kali kamu berlari, sejujurnya... aku\". \nKemudian aku memantapkan niat dan menepuk dadaku dihadapan Buena. \"Aku―\""
+            "text": "\"Saat aku melihat pertama kali kamu berlari, sejujurnya... aku\". \nKemudian aku menguatkan niat dan menepuk dadaku dihadapan Buena. \"Aku―\""
         },
         {
             "name": "Buena Vista",
@@ -180,7 +180,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Sama-sama. ……Duh, udah hampir waktunya, aku harus cepet ke tribun! Soalnya aku ingin nonton di tempat yang paling bagus!",
+            "text": "Sama-sama. ……Duh, udah hampir waktunya, aku harus cepet ke tribun!\nSoalnya aku ingin nonton di tempat yang paling bagus!",
             "choice_data_list": [
                 "<size=35>Ya, menonton sambil belajar adalah hal bagus.</size>",
                 "<size=35>Ya, menonton sambil belajar adalah hal bagus.</size>"
@@ -188,7 +188,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Tentu! Kita berdua, harus banyak belajar hari ini! Untuk 'Japan Cup', sudah kamu pilih siapa Umamusume yang akan difokuskan? Kalau aku—"
+            "text": "Tentu! Kita berdua, harus banyak belajar hari ini! Untuk 'Japan Cup',\nsudah kamu pilih siapa Umamusume yang akan difokuskan? Kalau aku—"
         },
         {
             "name": "Buena Vista",
