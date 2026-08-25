@@ -231,7 +231,9 @@
     },
     "1006": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Balapan lagi kali ini... baiklah.\nKalau memang harus berlari,\naku akan berlari sekuat tenaga.",
+        "20022": "Kalau terus begini, aku tidak bisa berlari dengan baik…\nAku ingin menahan diri dari balapan dulu."
     },
     "1007": {
         "11": "Cygames",
@@ -245,7 +247,9 @@
     },
     "1009": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Balapan lagi...?\nCoba jelaskan logikamu dong.\nKalau nggak, aku nggak terima!",
+        "20022": "Jangan bilang balapan lagi deh?\nEmangnya kamu udah pikirin jadwalnya beneran?\nKayak orang bego yang cuma tau satu hal aja!"
     },
     "1010": {
         "11": "Cygames",
@@ -269,7 +273,9 @@
     },
     "1014": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Kali ini juga mau ikut balapan, ja? El sedikit khawatir bisa terbang dengan baik... t-tapi tidak, kalau memang mau balapan, El pasti menang!",
+        "20022": "Balapan lagi? El rasa kondor pun sesekali butuh mengistirahatkan sayapnya..."
     },
     "1015": {
         "11": "Cygames",
@@ -317,7 +323,9 @@
     },
     "1025": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Jika Kamu bilang tidak apa-apa...\nbaiklah... tapi...",
+        "20022": "Kalau terlalu memaksakan diri...\nsepertinya ada sesuatu yang berharga...\nyang akan hilang dari pandangan..."
     },
     "1026": {
         "11": "Cygames",
@@ -661,7 +669,9 @@
     },
     "1035": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Ha, ada balapan lagi!?\nBelakangan ini banyak banget ya!?\nBerlari sih menyenangkan tapi... ugh, hmm.",
+        "20022": "Ugh...! Terlalu sering ikut balapan\nRasanya nggak bisa lari dengan baik...! Uwooo!\nAku ini lemah banget deh!!"
     },
     "1036": {
         "11": "Cygames",
@@ -783,7 +793,9 @@
     },
     "1061": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Kalau terus-terusan balapan, lama-lama aku jadi tidak sadar dengan kelelahan diriku sendiri…. …Memang begitulah masalah yang selalu mengikuti aku yang sibuk ini.",
+        "20022": "Tantangan boleh saja…. Tapi, ikut balapan seenaknya tanpa pikir panjang itu namanya strategi bodoh. Kau mengerti?"
     },
     "1062": {
         "11": "Cygames",
@@ -854,7 +866,9 @@
     },
     "1072": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Dalam aliran Kongō Yaegaki, ada pula latihan seribu pertarungan tangan kosong. Bila kuingat hal itu, tak sepatutnya aku lunglai karena hal sepele ini… Hmph!",
+        "20022": "Derita dan kesengsaraan, padamkan segala rasa dalam batin…! Kesulitan setingkat ini, tak mungkin tak bisa kulalui…!"
     },
     "1073": {
         "11": "Cygames",
@@ -901,8 +915,10 @@
     },
     "1083": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!",
-        "20042": "Kuh…"
+        "12": "Umamusume, Pretty Derby!",
+        "20042": "Kuh…",
+        "20021": "Balapan terus berlanjut.\nRisikonya pun―― sebaiknya dipikirkan.",
+        "20022": "Keluar sekarang―― bukan pilihan yang wise.\nDemi misi pun―― aku ingin menahan diri."
     },
     "1084": {
         "11": "Cygames",
@@ -1034,7 +1050,9 @@
     },
     "1113": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Lagi-lagi balapan...!?\n...Eh. Jangan-jangan ngurus aku terlalu banyak sampe... kamu kenapa-kenapa ya...?",
+        "20022": "Aku janji nggak minta-minta mulu.\nNggak pilih-pilih makanan. Nggak tidur di kelas.\n...Jadi tolong kembalilah ke waras dooong!"
     },
     "1114": {
         "11": "Cygames",
@@ -1212,7 +1230,9 @@
         "500001": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!",
         "500002": "Kamu bisa memasukan tiga pelari ke balapan Room Match!",
         "500003": "Kamu bisa menyimpan hasil Room Match sampai lima balapan!",
-        "500005": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!"
+        "500005": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!",
+        "500006": "Kamu bisa memasukan tiga pelari ke balapan Room Match!",
+        "500007": "Kamu bisa menyimpan hasil Room Match sampai lima balapan!"
     },
     "9002": {
         "20051": "Berlatihlah dengan tekun! Ayo, kita gasskeun!",

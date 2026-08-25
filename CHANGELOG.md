@@ -1,5 +1,8 @@
 # Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS.
-## Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
+Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
+
+## TL UPDATE 25-08-26
+- Sinkronisasi konten TL dengan repo JP
 
 ## TL UPDATE 09-07-26
 - Sinkronisasi konten TL dengan repo JP, termasuk komik

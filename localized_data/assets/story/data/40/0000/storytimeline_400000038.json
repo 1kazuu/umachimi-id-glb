@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "<chrname> sedang berada di wastafel, tampak gelisah…",
+            "text": "<chrname> sedang berada di depan wastafel\ntampak khawatir…",
             "name": ""
         },
         {
-            "text": "Rupanya, kulitnya tidak dalam kondisi\nbaik…",
+            "text": "Sepertinya kondisi kulitnya sedang tidak baik…",
             "name": ""
         }
     ],
