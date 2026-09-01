@@ -29,7 +29,7 @@
             "text": "――！"
         },
         {
-            "text": "…………Hehe.\nKamu gapapa？ Mukamu, memerah tau.",
+            "text": "…………Hehe.\nKamu gapapa? Mukamu, memerah tau.",
             "name": "Buena Vista"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Terima kasih, aku terus menunggumu,\n――『Trainer-san』！",
+            "text": "Terima kasih, aku selalu menunggumu,\n――『Trainer-san』！",
             "choice_data_list": [
                 "Ya!",
                 "Ya!"
@@ -52,7 +52,7 @@
         },
         {
             "name": "Ibu Buena",
-            "text": "――Nah, beri salam. Dia adalah Abang <username> yang baru saja pindah \ndi sebelah kita. Bertemanlah dengan baik ya.",
+            "text": "――Nah, beri salam. Dia adalah Abang Ikazuu yang baru saja pindah \ndi sebelah kita. Bertemanlah dengan baik ya.",
             "choice_data_list": [
                 "A....Hmm, salam kenal, Buena-chan.",
                 "A....Hmm, salam kenal, Buena-chan."
@@ -68,10 +68,10 @@
         },
         {
             "name": "Buena Kecil",
-            "text": "……A-bang……？\nAnu……aku Buu-chan. ……salam kenal, ya？"
+            "text": "……A-bang……?\nAnu……aku Buu-chan. ……salam kenal, ya?"
         },
         {
-            "text": "……Ka-kak……？\nAnu……aku Buu-chan. ……salam kenal, ya？",
+            "text": "……Ka-kak……?\nAnu……aku Buu-chan. ……salam kenal, ya?",
             "name": "Buena Kecil"
         },
         {
@@ -223,7 +223,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "……！　――Wah。Wah、wah……！"
+            "text": "……！　――Wah, wah, wah……！"
         },
         {
             "text": "Sangat, indah sekali……！！",

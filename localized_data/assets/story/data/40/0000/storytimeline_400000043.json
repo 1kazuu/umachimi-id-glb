@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<chrname> tampaknya mengalami cedera ringan..."
+        },
+        {
+            "text": "Meski begitu, sekarang adalah masa kamp musim panas yang berharga. Nah, apa yang harus dilakukan—",
+            "choice_data_list": [
+                "Istirahat total",
+                "Tetap lanjutkan"
+            ]
+        },
+        {
+            "text": "Diputuskan untuk fokus pada perawatan dan pemulihan."
+        },
+        {
+            "text": "<chrname> tidak bisa menggerakkan tubuhnya, dan tampaknya sedikit murung..."
+        },
+        {
+            "text": "Di sini, aku memilih untuk menyemangati <chrname> dengan penuh semangat dan mendorongnya untuk terus berusaha—"
+        },
+        {
+            "text": "Namun, ternyata gagal!\nCederanya justru semakin parah..."
+        },
+        {
+            "text": "Namun secara ajaib, cederanya justru sembuh total dan latihan pun berjalan lancar!!"
+        }
+    ]
+}
