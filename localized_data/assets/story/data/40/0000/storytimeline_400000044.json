@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<chrname> mengalami cedera parah...!"
+        },
+        {
+            "text": "Haruskah aku menghiburnya, atau tetap tegas? Apa yang harus kulakukan...",
+            "choice_data_list": [
+                "Menghiburnya",
+                "Tetap tegas!"
+            ]
+        },
+        {
+            "text": "Aku memilih untuk menghiburnya dan fokus pada pemulihan cedera."
+        },
+        {
+            "text": "Namun <chrname> tidak bisa menggerakkan tubuhnya, dan tampaknya sedikit murung..."
+        },
+        {
+            "text": "Tidak ada waktu untuk berdiam diri!\nDengan hati yang tegar, aku memutuskan untuk tetap bersikap tegas pada <chrname>."
+        },
+        {
+            "text": "Namun akibatnya, ia dipaksa melampaui batasnya, dan cederanya semakin parah... # gagal"
+        },
+        {
+            "text": "Namun secara ajaib, cederanya justru sembuh total dan latihan pun berjalan lancar!!"
+        }
+    ]
+}
