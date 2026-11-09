@@ -1,0 +1,29 @@
+{
+    "windows": {
+        "bundle_name": "T552R2NMFSYRQL22PVW42E3SOBUJCJCB"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "9": {
+                "plane_param_list": {
+                    "0": {
+                        "name": "txt_gacha_on",
+                        "scale": {
+                            "x": 1.3,
+                            "y": 1.3,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "name": "txt_gacha_off",
+                        "scale": {
+                            "x": 1.3,
+                            "y": 1.3,
+                            "z": 1.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
